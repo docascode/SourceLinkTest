@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "oxiWuXcFd2kAbma92tWKLBnKP43/VN6Sm+F4Dd3TBQilhfW53XOQ3gGhsGTHapqRN9HskRPKTjBu5Y9EnUWO/A==",
+  "dgSpecHash": "ZrhQ83Uf1Kw4LlPWxfqsKwvWDgn6IoFUFWesE4JTk0i9J5jZXqto9MGDwqcKkDKtgxkTs7Jpv0mZjvXbJ89oCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\huangmin\\source\\test\\SourceLinkTest\\SourceLinkTest\\SourceLinkTest\\SourceLinkTest.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\huangmin\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\huangmin\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\huangmin\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
