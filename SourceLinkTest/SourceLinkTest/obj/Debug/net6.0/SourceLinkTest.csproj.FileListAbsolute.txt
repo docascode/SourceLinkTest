@@ -1,0 +1,12 @@
+C:\Users\huangmin\source\test\SourceLinkTest\SourceLinkTest\SourceLinkTest\bin\Debug\net6.0\SourceLinkTest.deps.json
+C:\Users\huangmin\source\test\SourceLinkTest\SourceLinkTest\SourceLinkTest\bin\Debug\net6.0\SourceLinkTest.dll
+C:\Users\huangmin\source\test\SourceLinkTest\SourceLinkTest\SourceLinkTest\bin\Debug\net6.0\SourceLinkTest.pdb
+C:\Users\huangmin\source\test\SourceLinkTest\SourceLinkTest\SourceLinkTest\obj\Debug\net6.0\SourceLinkTest.csproj.AssemblyReference.cache
+C:\Users\huangmin\source\test\SourceLinkTest\SourceLinkTest\SourceLinkTest\obj\Debug\net6.0\SourceLinkTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huangmin\source\test\SourceLinkTest\SourceLinkTest\SourceLinkTest\obj\Debug\net6.0\SourceLinkTest.AssemblyInfoInputs.cache
+C:\Users\huangmin\source\test\SourceLinkTest\SourceLinkTest\SourceLinkTest\obj\Debug\net6.0\SourceLinkTest.AssemblyInfo.cs
+C:\Users\huangmin\source\test\SourceLinkTest\SourceLinkTest\SourceLinkTest\obj\Debug\net6.0\SourceLinkTest.csproj.CoreCompileInputs.cache
+C:\Users\huangmin\source\test\SourceLinkTest\SourceLinkTest\SourceLinkTest\obj\Debug\net6.0\SourceLinkTest.dll
+C:\Users\huangmin\source\test\SourceLinkTest\SourceLinkTest\SourceLinkTest\obj\Debug\net6.0\refint\SourceLinkTest.dll
+C:\Users\huangmin\source\test\SourceLinkTest\SourceLinkTest\SourceLinkTest\obj\Debug\net6.0\SourceLinkTest.pdb
+C:\Users\huangmin\source\test\SourceLinkTest\SourceLinkTest\SourceLinkTest\obj\Debug\net6.0\ref\SourceLinkTest.dll
