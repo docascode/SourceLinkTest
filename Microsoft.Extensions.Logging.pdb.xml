@@ -1,0 +1,1878 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Pdb Name="Microsoft.Extensions.Logging" Path="C:\work\dotnet\Microsoft.Extensions.Logging.pdb" AssemblyPath="C:\work\dotnet\Microsoft.Extensions.Logging.dll" PdbType="Portable" Signature="8d2a0150-28fa-4056-abf7-ca1b07d4427c" TimeDateStamp="D2DAF798" AgeOrTimestampFromAssembly="D2DAF798 0 " SignatureFromAssembly="8d2a0150-28fa-4056-abf7-ca1b07d4427c 00000000-0000-0000-0000-000000000000 " PdbFileFromAssembly="/_/artifacts/obj/Microsoft.Extensions.Logging/netstandard2.1-Release/Microsoft.Extensions.Logging.pdb - ">
+  <UserEntryPoint>null</UserEntryPoint>
+  <Document Index="1" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="3c d3 0a 41 43 82 33 71 7f a4 59 56 ad 4d 18 b1 ba 32 0a 74 8e a4 8c 03 25 a9 94 6a 06 36 2f dd ">/_/src/libraries/Common/src/System/SR.cs</Document>
+  <Document Index="2" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="c9 0a e6 c6 c8 f3 f2 6a f5 cb 59 02 b1 98 28 61 71 c5 f0 19 7f ce 44 73 41 29 43 ae 2c 0a 87 f9 ">/_/artifacts/obj/Microsoft.Extensions.Logging/netstandard2.1-Release/System.SR.cs</Document>
+  <Document Index="3" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="44 6c 52 e7 90 00 3a 7f c7 4f 33 37 e2 7f d9 00 f7 2f e1 d1 85 9f f8 6b 8c 66 df ee fb b6 0c 5b ">/_/src/libraries/Microsoft.Extensions.Logging/src/LoggingServiceCollectionExtensions.cs</Document>
+  <Document Index="4" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="50 18 ee a6 eb 71 31 7d 1d b7 a1 e6 77 8a b3 da 44 f4 6d 42 cc c6 c3 27 d9 7c 14 6f 0a 17 4d 3a ">/_/src/libraries/Microsoft.Extensions.Logging/src/DefaultLoggerLevelConfigureOptions.cs</Document>
+  <Document Index="5" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="83 51 83 05 43 13 de cd 87 87 bf 5e ea 92 61 17 aa 37 a6 b7 c1 04 c7 74 0d 73 3c 06 f9 be 7a 8e ">/_/src/libraries/Microsoft.Extensions.Logging/src/FilterLoggingBuilderExtensions.cs</Document>
+  <Document Index="6" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="d4 c0 89 dc a9 77 ed b4 2c 40 4a 0a 2f f3 da 53 08 3d 79 6a cb a5 18 ba c5 6c 7c ae a9 50 c1 20 ">/_/src/libraries/Microsoft.Extensions.Logging/src/Logger.cs</Document>
+  <Document Index="7" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="de cd 78 53 78 e1 f0 eb 70 bb 98 c3 31 dd 12 0f 6f 7f f0 b1 bd 45 f0 7f 34 5a d8 65 13 00 47 b2 ">/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerFactory.cs</Document>
+  <Document Index="8" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="3e 9d 05 fc 13 f7 9e b6 5f 86 d9 de 79 7a a2 ae ae 1f f2 24 57 1f cf 6b a5 b8 ba 72 65 63 9f f7 ">/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerFactoryOptions.cs</Document>
+  <Document Index="9" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="7d b3 1a 3a 70 4c e1 e1 ec bd 78 55 7b a5 c9 31 49 81 2d 92 e5 46 bd 8b 5c 06 e8 92 68 c7 57 a6 ">/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerFactoryScopeProvider.cs</Document>
+  <Document Index="10" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="a3 37 24 c1 ef 38 33 6d df 04 31 13 b7 72 f5 1c 47 05 bc 44 ae 76 30 cc df e2 41 a1 77 ba d8 78 ">/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerFilterOptions.cs</Document>
+  <Document Index="11" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="23 fa 25 f1 71 b5 03 51 43 f5 33 66 e4 d1 cb 0a bc 76 9c e7 a2 2d a3 48 39 fd 88 3c d5 ab 24 f2 ">/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerFilterRule.cs</Document>
+  <Document Index="12" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="70 e0 d6 ef f3 8f a2 85 e8 c6 35 2b 6a 1f 22 23 83 a7 68 60 36 8f 37 c0 36 5c 45 c8 83 5f c4 6a ">/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerInformation.cs</Document>
+  <Document Index="13" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="f4 8d ce 35 17 9a 0a 61 f0 2f dc 3f ea d9 3b 31 96 f1 22 93 15 2e 21 71 89 2b c5 e3 a7 0b 7e df ">/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerRuleSelector.cs</Document>
+  <Document Index="14" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="24 1a fb 45 0b 27 68 72 f4 7b 45 d5 44 d2 87 d1 6d e4 c7 d8 dc a3 95 84 85 0c 4f 54 00 a4 15 6d ">/_/src/libraries/Microsoft.Extensions.Logging/src/LoggingBuilder.cs</Document>
+  <Document Index="15" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="51 6a ae 7b af bc 5b 89 5e 20 94 d9 75 62 3a 51 f2 db 82 19 3e 02 83 99 31 38 6a 9d 3f f5 e2 97 ">/_/src/libraries/Microsoft.Extensions.Logging/src/LoggingBuilderExtensions.cs</Document>
+  <Document Index="16" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="60 1d 57 ed 89 26 b9 35 8a b8 4f 23 35 6d b6 04 ee 46 b1 67 c1 c8 80 eb ef 26 13 03 f1 c8 b0 2b ">/_/src/libraries/Microsoft.Extensions.Logging/src/ProviderAliasAttribute.cs</Document>
+  <Document Index="17" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="a4 ae 00 1e 6d 48 ad fc 6b 19 ed 87 a1 63 e0 ac 31 a9 67 b7 a2 e9 13 8b 51 7d c0 b1 e1 28 70 a9 ">/_/src/libraries/Microsoft.Extensions.Logging/src/StaticFilterOptionsMonitor.cs</Document>
+  <Document Index="18" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="22 c2 2b dd e3 3f 4a aa 49 da fa 3e 1d 1e b0 81 43 0a 1c 89 9b 8e 3a ff 6c b9 32 ca 92 9d 8b 37 ">/_/src/libraries/Common/src/Extensions/ProviderAliasUtilities/ProviderAliasUtilities.cs</Document>
+  <Document Index="19" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="7a 71 21 4f 21 ad 68 db a3 83 d6 c7 3a bf d3 16 2b 5d 16 31 cf 78 b5 70 77 a9 a7 f8 8c 22 ae 43 ">/_/src/libraries/Common/src/Extensions/Logging/NullExternalScopeProvider.cs</Document>
+  <Document Index="20" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="94 57 a0 e3 ba c5 d4 71 23 ea b4 87 eb e2 45 02 7b 8c 5d 90 c5 fb 3b 96 77 12 66 20 15 ef dc e8 ">/_/src/libraries/Common/src/Extensions/Logging/NullScope.cs</Document>
+  <Document Index="21" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="bb 9b 28 f3 9a 15 c0 7f 21 1d 7b 86 96 74 b8 4a 9e 5c eb d5 0f a6 13 63 c0 1f 99 8d e9 c7 f5 73 ">/_/artifacts/obj/Microsoft.Extensions.Logging/netstandard2.1-Release/.NETStandard,Version=v2.1.AssemblyAttributes.cs</Document>
+  <Document Index="22" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="26 3b ce aa b4 21 ff bd d1 6a 22 b5 54 f9 7c cb c9 9f d6 b1 61 8f b1 85 e7 6b 78 e1 1f 42 e7 bc ">/_/artifacts/obj/Microsoft.Extensions.Logging/netstandard2.1-Release/_AssemblyInfo.cs</Document>
+  <Document Index="23" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="13 08 25 16 89 3b eb 55 df e8 2a b8 5f ee 20 77 e0 69 b5 92 84 d8 6b 18 e2 88 a1 b1 1d 91 0a b2 ">/_/artifacts/obj/Microsoft.Extensions.Logging/netstandard2.1-Release/Microsoft.Extensions.Logging.AssemblyInfo.cs</Document>
+  <Document Index="24" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="90 d3 4b 5a aa 7f 51 0c 3c ed 4f c0 6e 41 b6 a6 07 9c 2f 01 2b c5 37 7f 80 bc eb 66 24 06 60 19 ">/_/src/libraries/Microsoft.Extensions.Logging/src/ActivityTrackingOptions.cs</Document>
+  <Document Index="25" DocumentType="Text" Language="C#" LanguageVendor="Microsoft" ChecksumAlgorithm="SHA-256" Checksum="fd cd 25 ed 35 35 46 0c df c7 62 12 39 9f 2f fd 47 f9 4b 2f 05 92 1a 09 18 17 5b 96 5e 6f b9 4a ">/_/src/libraries/Microsoft.Extensions.Logging/src/ILoggingBuilder.cs</Document>
+  <ImportScope Index="1" Parent="null" />
+  <ImportScope Index="2" Parent="1">
+    <Import>System.Resources</Import>
+    <Import>System.Runtime.CompilerServices</Import>
+  </ImportScope>
+  <ImportScope Index="3" Parent="2" />
+  <ImportScope Index="4" Parent="1">
+    <Import>System.Reflection</Import>
+  </ImportScope>
+  <ImportScope Index="5" Parent="4" />
+  <ImportScope Index="6" Parent="1">
+    <Import>System</Import>
+    <Import>Microsoft.Extensions.Logging</Import>
+    <Import>Microsoft.Extensions.DependencyInjection.Extensions</Import>
+    <Import>Microsoft.Extensions.Options</Import>
+  </ImportScope>
+  <ImportScope Index="7" Parent="6" />
+  <ImportScope Index="8" Parent="7" />
+  <ImportScope Index="9" Parent="8" />
+  <ImportScope Index="A" Parent="1">
+    <Import>Microsoft.Extensions.Options</Import>
+  </ImportScope>
+  <ImportScope Index="B" Parent="A" />
+  <ImportScope Index="C" Parent="B" />
+  <ImportScope Index="D" Parent="C" />
+  <ImportScope Index="E" Parent="1">
+    <Import>System</Import>
+    <Import>Microsoft.Extensions.DependencyInjection</Import>
+  </ImportScope>
+  <ImportScope Index="F" Parent="E" />
+  <ImportScope Index="10" Parent="F" />
+  <ImportScope Index="11" Parent="10" />
+  <ImportScope Index="12" Parent="1">
+    <Import>System</Import>
+    <Import>System.Collections.Generic</Import>
+  </ImportScope>
+  <ImportScope Index="13" Parent="12" />
+  <ImportScope Index="14" Parent="13" />
+  <ImportScope Index="15" Parent="14" />
+  <ImportScope Index="16" Parent="1">
+    <Import>System</Import>
+    <Import>System.Collections.Generic</Import>
+    <Import>System.Linq</Import>
+    <Import>Microsoft.Extensions.DependencyInjection</Import>
+    <Import>Microsoft.Extensions.Options</Import>
+  </ImportScope>
+  <ImportScope Index="17" Parent="16" />
+  <ImportScope Index="18" Parent="17" />
+  <ImportScope Index="19" Parent="18" />
+  <ImportScope Index="1A" Parent="1">
+    <Import>System.Collections.Generic</Import>
+  </ImportScope>
+  <ImportScope Index="1B" Parent="1A" />
+  <ImportScope Index="1C" Parent="1B" />
+  <ImportScope Index="1D" Parent="1C" />
+  <ImportScope Index="1E" Parent="1">
+    <Import>System</Import>
+    <Import>System.Text</Import>
+    <Import>System.Globalization</Import>
+    <Import>System.Threading</Import>
+    <Import>System.Collections</Import>
+    <Import>System.Diagnostics</Import>
+    <Import>System.Collections.Generic</Import>
+  </ImportScope>
+  <ImportScope Index="1F" Parent="1E" />
+  <ImportScope Index="20" Parent="1F" />
+  <ImportScope Index="21" Parent="20" />
+  <ImportScope Index="22" Parent="1">
+    <Import>System</Import>
+  </ImportScope>
+  <ImportScope Index="23" Parent="22" />
+  <ImportScope Index="24" Parent="23" />
+  <ImportScope Index="25" Parent="24" />
+  <ImportScope Index="26" Parent="1">
+    <Import>Microsoft.Extensions.DependencyInjection</Import>
+  </ImportScope>
+  <ImportScope Index="27" Parent="26" />
+  <ImportScope Index="28" Parent="27" />
+  <ImportScope Index="29" Parent="28" />
+  <ImportScope Index="2A" Parent="1">
+    <Import>System</Import>
+    <Import>Microsoft.Extensions.DependencyInjection</Import>
+    <Import>Microsoft.Extensions.DependencyInjection.Extensions</Import>
+    <Import>Microsoft.Extensions.Options</Import>
+  </ImportScope>
+  <ImportScope Index="2B" Parent="2A" />
+  <ImportScope Index="2C" Parent="2B" />
+  <ImportScope Index="2D" Parent="2C" />
+  <ImportScope Index="2E" Parent="1">
+    <Import>System</Import>
+    <Import>Microsoft.Extensions.Options</Import>
+  </ImportScope>
+  <ImportScope Index="2F" Parent="2E" />
+  <ImportScope Index="30" Parent="2F" />
+  <ImportScope Index="31" Parent="30" />
+  <ImportScope Index="32" Parent="1">
+    <Import>System</Import>
+    <Import>System.Diagnostics</Import>
+    <Import>System.Reflection</Import>
+  </ImportScope>
+  <ImportScope Index="33" Parent="32" />
+  <ImportScope Index="34" Parent="33" />
+  <ImportScope Index="35" Parent="34" />
+  <Method Token="6000001" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="1">
+      <SequencePoint IlOffset="IL_0000" StartLine="22" StartColumn="13" EndLine="22" EndColumn="32" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0006" IsRoot="True" Method="6000001" ImportScope="3" />
+  </Method>
+  <Method Token="6000002" LocalVariablesSignatureToken="11000001">
+    <SequencePoints DocumentIndex="1">
+      <SequencePoint IlOffset="IL_0000" StartLine="29" StartColumn="13" EndLine="29" EndColumn="37" />
+      <SequencePoint IlOffset="IL_0007" StartLine="31" StartColumn="17" EndLine="31" EndColumn="53" />
+      <SequencePoint IlOffset="IL_000e" StartLine="34" StartColumn="13" EndLine="34" EndColumn="43" />
+      <SequencePoint IlOffset="IL_0010" StartLine="37" StartColumn="17" EndLine="41" EndColumn="60" />
+      <SequencePoint IlOffset="IL_001c" StartLine="43" StartColumn="13" EndLine="43" EndColumn="14" />
+      <SequencePoint IlOffset="IL_001e" StartLine="44" StartColumn="13" EndLine="44" EndColumn="53" />
+      <SequencePoint IlOffset="IL_001f" StartLine="44" StartColumn="56" EndLine="44" EndColumn="57" />
+      <SequencePoint IlOffset="IL_0021" StartLine="46" StartColumn="13" EndLine="46" EndColumn="77" />
+      <SequencePoint IlOffset="IL_002d" StartLine="48" StartColumn="17" EndLine="48" EndColumn="38" />
+      <SequencePoint IlOffset="IL_002f" StartLine="51" StartColumn="13" EndLine="51" EndColumn="36" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0031" IsRoot="True" Method="6000002" ImportScope="3">
+      <Scope OffsetRange="IL_0000-IL_0031" IsRoot="False" Method="6000002" ImportScope="3">
+        <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="0" Attributes="None">resourceString</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000003" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="1">
+      <SequencePoint IlOffset="IL_0000" StartLine="56" StartColumn="13" EndLine="56" EndColumn="37" />
+      <SequencePoint IlOffset="IL_0007" StartLine="58" StartColumn="17" EndLine="58" EndColumn="62" />
+      <SequencePoint IlOffset="IL_0020" StartLine="61" StartColumn="13" EndLine="61" EndColumn="54" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0028" IsRoot="True" Method="6000003" ImportScope="3" />
+  </Method>
+  <Method Token="6000004" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="1">
+      <SequencePoint IlOffset="IL_0000" StartLine="66" StartColumn="13" EndLine="66" EndColumn="37" />
+      <SequencePoint IlOffset="IL_0007" StartLine="68" StartColumn="17" EndLine="68" EndColumn="66" />
+      <SequencePoint IlOffset="IL_0024" StartLine="71" StartColumn="13" EndLine="71" EndColumn="58" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_002d" IsRoot="True" Method="6000004" ImportScope="3" />
+  </Method>
+  <Method Token="6000005" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="1">
+      <SequencePoint IlOffset="IL_0000" StartLine="76" StartColumn="13" EndLine="76" EndColumn="37" />
+      <SequencePoint IlOffset="IL_0007" StartLine="78" StartColumn="17" EndLine="78" EndColumn="70" />
+      <SequencePoint IlOffset="IL_0028" StartLine="81" StartColumn="13" EndLine="81" EndColumn="62" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0032" IsRoot="True" Method="6000005" ImportScope="3" />
+  </Method>
+  <Method Token="6000006" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="1">
+      <SequencePoint IlOffset="IL_0000" StartLine="86" StartColumn="13" EndLine="86" EndColumn="30" />
+      <SequencePoint IlOffset="IL_0003" StartLine="88" StartColumn="17" EndLine="88" EndColumn="41" />
+      <SequencePoint IlOffset="IL_000a" StartLine="90" StartColumn="21" EndLine="90" EndColumn="76" />
+      <SequencePoint IlOffset="IL_0021" StartLine="93" StartColumn="17" EndLine="93" EndColumn="60" />
+      <SequencePoint IlOffset="IL_0029" StartLine="96" StartColumn="13" EndLine="96" EndColumn="35" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_002b" IsRoot="True" Method="6000006" ImportScope="3" />
+  </Method>
+  <Method Token="6000007" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="1">
+      <SequencePoint IlOffset="IL_0000" StartLine="101" StartColumn="13" EndLine="101" EndColumn="37" />
+      <SequencePoint IlOffset="IL_0007" StartLine="103" StartColumn="17" EndLine="103" EndColumn="62" />
+      <SequencePoint IlOffset="IL_0020" StartLine="106" StartColumn="13" EndLine="106" EndColumn="64" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0029" IsRoot="True" Method="6000007" ImportScope="3" />
+  </Method>
+  <Method Token="6000008" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="1">
+      <SequencePoint IlOffset="IL_0000" StartLine="111" StartColumn="13" EndLine="111" EndColumn="37" />
+      <SequencePoint IlOffset="IL_0007" StartLine="113" StartColumn="17" EndLine="113" EndColumn="66" />
+      <SequencePoint IlOffset="IL_0024" StartLine="116" StartColumn="13" EndLine="116" EndColumn="68" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_002e" IsRoot="True" Method="6000008" ImportScope="3" />
+  </Method>
+  <Method Token="6000009" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="1">
+      <SequencePoint IlOffset="IL_0000" StartLine="121" StartColumn="13" EndLine="121" EndColumn="37" />
+      <SequencePoint IlOffset="IL_0007" StartLine="123" StartColumn="17" EndLine="123" EndColumn="70" />
+      <SequencePoint IlOffset="IL_0029" StartLine="126" StartColumn="13" EndLine="126" EndColumn="72" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0035" IsRoot="True" Method="6000009" ImportScope="3" />
+  </Method>
+  <Method Token="600000A" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="1">
+      <SequencePoint IlOffset="IL_0000" StartLine="131" StartColumn="13" EndLine="131" EndColumn="30" />
+      <SequencePoint IlOffset="IL_0003" StartLine="133" StartColumn="17" EndLine="133" EndColumn="41" />
+      <SequencePoint IlOffset="IL_000a" StartLine="135" StartColumn="21" EndLine="135" EndColumn="76" />
+      <SequencePoint IlOffset="IL_0021" StartLine="138" StartColumn="17" EndLine="138" EndColumn="70" />
+      <SequencePoint IlOffset="IL_002a" StartLine="141" StartColumn="13" EndLine="141" EndColumn="35" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_002c" IsRoot="True" Method="600000A" ImportScope="3" />
+  </Method>
+  <Method Token="600000B" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="2">
+      <SequencePoint IlOffset="IL_0000" StartLine="13" StartColumn="85" EndLine="13" EndColumn="225" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_001f" IsRoot="True" Method="600000B" ImportScope="5" />
+  </Method>
+  <Method Token="600000C" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="2">
+      <SequencePoint IlOffset="IL_0000" StartLine="16" StartColumn="67" EndLine="16" EndColumn="118" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000c" IsRoot="True" Method="600000C" ImportScope="5" />
+  </Method>
+  <Method Token="600000D" LocalVariablesSignatureToken="11000002">
+    <SequencePoints DocumentIndex="1">
+      <SequencePoint IlOffset="IL_0000" StartLine="13" StartColumn="9" EndLine="13" EndColumn="182" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0018" IsRoot="True" Method="600000D" ImportScope="3">
+      <Scope OffsetRange="IL_0000-IL_0017" IsRoot="False" Method="600000D" ImportScope="3">
+        <LocalVariable LocalVariablesSignatureToken="11000002" IlIndex="0" Attributes="None">usingResourceKeys</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600000E" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="3">
+      <SequencePoint IlOffset="IL_0000" StartLine="23" StartColumn="13" EndLine="23" EndColumn="57" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0026" IsRoot="True" Method="600000E" ImportScope="9" />
+  </Method>
+  <Method Token="600000F" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="3">
+      <SequencePoint IlOffset="IL_0000" StartLine="34" StartColumn="13" EndLine="34" EndColumn="34" />
+      <SequencePoint IlOffset="IL_0003" StartLine="36" StartColumn="17" EndLine="36" EndColumn="67" />
+      <SequencePoint IlOffset="IL_000e" StartLine="39" StartColumn="13" EndLine="39" EndColumn="35" />
+      <SequencePoint IlOffset="IL_0015" StartLine="41" StartColumn="13" EndLine="41" EndColumn="91" />
+      <SequencePoint IlOffset="IL_0020" StartLine="42" StartColumn="13" EndLine="42" EndColumn="95" />
+      <SequencePoint IlOffset="IL_003f" StartLine="44" StartColumn="13" EndLine="45" EndColumn="80" />
+      <SequencePoint IlOffset="IL_0050" StartLine="47" StartColumn="13" EndLine="47" EndColumn="53" />
+      <SequencePoint IlOffset="IL_005c" StartLine="48" StartColumn="13" EndLine="48" EndColumn="29" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_005e" IsRoot="True" Method="600000F" ImportScope="9" />
+  </Method>
+  <Method Token="6000010" LocalVariablesSignatureToken="11000003">
+    <SequencePoints DocumentIndex="4">
+      <SequencePoint IlOffset="IL_0000" Hidden="true" />
+      <SequencePoint IlOffset="IL_000d" StartLine="10" StartColumn="69" EndLine="10" EndColumn="110" />
+      <SequencePoint IlOffset="IL_001f" StartLine="12" StartColumn="9" EndLine="12" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0020" IsRoot="True" Method="6000010" ImportScope="D">
+      <Scope OffsetRange="IL_0000-IL_0020" IsRoot="False" Method="6000010" ImportScope="D">
+        <LocalVariable LocalVariablesSignatureToken="11000003" IlIndex="0" Attributes="None">CS$&lt;&gt;8__locals0</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000011" LocalVariablesSignatureToken="11000004">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" Hidden="true" />
+      <SequencePoint IlOffset="IL_000d" StartLine="21" StartColumn="13" EndLine="21" EndColumn="74" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0020" IsRoot="True" Method="6000011" ImportScope="11">
+      <Scope OffsetRange="IL_0000-IL_0020" IsRoot="False" Method="6000011" ImportScope="11">
+        <LocalVariable LocalVariablesSignatureToken="11000004" IlIndex="0" Attributes="None">CS$&lt;&gt;8__locals0</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000012" LocalVariablesSignatureToken="11000005">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" Hidden="true" />
+      <SequencePoint IlOffset="IL_000d" StartLine="30" StartColumn="13" EndLine="30" EndColumn="87" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0020" IsRoot="True" Method="6000012" ImportScope="11">
+      <Scope OffsetRange="IL_0000-IL_0020" IsRoot="False" Method="6000012" ImportScope="11">
+        <LocalVariable LocalVariablesSignatureToken="11000005" IlIndex="0" Attributes="None">CS$&lt;&gt;8__locals0</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000013" LocalVariablesSignatureToken="11000006">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" Hidden="true" />
+      <SequencePoint IlOffset="IL_000d" StartLine="40" StartColumn="13" EndLine="40" EndColumn="90" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0020" IsRoot="True" Method="6000013" ImportScope="11">
+      <Scope OffsetRange="IL_0000-IL_0020" IsRoot="False" Method="6000013" ImportScope="11">
+        <LocalVariable LocalVariablesSignatureToken="11000006" IlIndex="0" Attributes="None">CS$&lt;&gt;8__locals0</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000014" LocalVariablesSignatureToken="11000007">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" Hidden="true" />
+      <SequencePoint IlOffset="IL_000d" StartLine="49" StartColumn="13" EndLine="49" EndColumn="79" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0020" IsRoot="True" Method="6000014" ImportScope="11">
+      <Scope OffsetRange="IL_0000-IL_0020" IsRoot="False" Method="6000014" ImportScope="11">
+        <LocalVariable LocalVariablesSignatureToken="11000007" IlIndex="0" Attributes="None">CS$&lt;&gt;8__locals0</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000015" LocalVariablesSignatureToken="11000008">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" Hidden="true" />
+      <SequencePoint IlOffset="IL_000d" StartLine="59" StartColumn="13" EndLine="59" EndColumn="82" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0020" IsRoot="True" Method="6000015" ImportScope="11">
+      <Scope OffsetRange="IL_0000-IL_0020" IsRoot="False" Method="6000015" ImportScope="11">
+        <LocalVariable LocalVariablesSignatureToken="11000008" IlIndex="0" Attributes="None">CS$&lt;&gt;8__locals0</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000016" LocalVariablesSignatureToken="11000009">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" Hidden="true" />
+      <SequencePoint IlOffset="IL_0014" StartLine="69" StartColumn="13" EndLine="69" EndColumn="83" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0027" IsRoot="True" Method="6000016" ImportScope="11">
+      <Scope OffsetRange="IL_0000-IL_0027" IsRoot="False" Method="6000016" ImportScope="11">
+        <LocalVariable LocalVariablesSignatureToken="11000009" IlIndex="0" Attributes="None">CS$&lt;&gt;8__locals0</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000017" LocalVariablesSignatureToken="1100000A">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" Hidden="true" />
+      <SequencePoint IlOffset="IL_0014" StartLine="80" StartColumn="13" EndLine="80" EndColumn="86" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0027" IsRoot="True" Method="6000017" ImportScope="11">
+      <Scope OffsetRange="IL_0000-IL_0027" IsRoot="False" Method="6000017" ImportScope="11">
+        <LocalVariable LocalVariablesSignatureToken="1100000A" IlIndex="0" Attributes="None">CS$&lt;&gt;8__locals0</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000018" LocalVariablesSignatureToken="1100000B">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" Hidden="true" />
+      <SequencePoint IlOffset="IL_0014" StartLine="90" StartColumn="13" EndLine="90" EndColumn="89" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0027" IsRoot="True" Method="6000018" ImportScope="11">
+      <Scope OffsetRange="IL_0000-IL_0027" IsRoot="False" Method="6000018" ImportScope="11">
+        <LocalVariable LocalVariablesSignatureToken="1100000B" IlIndex="0" Attributes="None">CS$&lt;&gt;8__locals0</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000019" LocalVariablesSignatureToken="1100000C">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" Hidden="true" />
+      <SequencePoint IlOffset="IL_0014" StartLine="101" StartColumn="13" EndLine="101" EndColumn="92" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0027" IsRoot="True" Method="6000019" ImportScope="11">
+      <Scope OffsetRange="IL_0000-IL_0027" IsRoot="False" Method="6000019" ImportScope="11">
+        <LocalVariable LocalVariablesSignatureToken="1100000C" IlIndex="0" Attributes="None">CS$&lt;&gt;8__locals0</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600001A" LocalVariablesSignatureToken="1100000D">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" StartLine="110" StartColumn="13" EndLine="110" EndColumn="45" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0013" IsRoot="True" Method="600001A" ImportScope="11" />
+  </Method>
+  <Method Token="600001B" LocalVariablesSignatureToken="1100000E">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" Hidden="true" />
+      <SequencePoint IlOffset="IL_000d" StartLine="119" StartColumn="13" EndLine="119" EndColumn="94" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_002b" IsRoot="True" Method="600001B" ImportScope="11">
+      <Scope OffsetRange="IL_0000-IL_002b" IsRoot="False" Method="600001B" ImportScope="11">
+        <LocalVariable LocalVariablesSignatureToken="1100000E" IlIndex="0" Attributes="None">CS$&lt;&gt;8__locals0</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600001C" LocalVariablesSignatureToken="1100000F">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" Hidden="true" />
+      <SequencePoint IlOffset="IL_000d" StartLine="129" StartColumn="13" EndLine="129" EndColumn="120" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0039" IsRoot="True" Method="600001C" ImportScope="11">
+      <Scope OffsetRange="IL_0000-IL_0039" IsRoot="False" Method="600001C" ImportScope="11">
+        <LocalVariable LocalVariablesSignatureToken="1100000F" IlIndex="0" Attributes="None">CS$&lt;&gt;8__locals0</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600001D" LocalVariablesSignatureToken="11000010">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" Hidden="true" />
+      <SequencePoint IlOffset="IL_000d" StartLine="138" StartColumn="13" EndLine="138" EndColumn="80" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_002b" IsRoot="True" Method="600001D" ImportScope="11">
+      <Scope OffsetRange="IL_0000-IL_002b" IsRoot="False" Method="600001D" ImportScope="11">
+        <LocalVariable LocalVariablesSignatureToken="11000010" IlIndex="0" Attributes="None">CS$&lt;&gt;8__locals0</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600001E" LocalVariablesSignatureToken="11000011">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" Hidden="true" />
+      <SequencePoint IlOffset="IL_000d" StartLine="148" StartColumn="13" EndLine="148" EndColumn="106" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0039" IsRoot="True" Method="600001E" ImportScope="11">
+      <Scope OffsetRange="IL_0000-IL_0039" IsRoot="False" Method="600001E" ImportScope="11">
+        <LocalVariable LocalVariablesSignatureToken="11000011" IlIndex="0" Attributes="None">CS$&lt;&gt;8__locals0</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600001F" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" StartLine="158" StartColumn="13" EndLine="158" EndColumn="63" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0010" IsRoot="True" Method="600001F" ImportScope="11" />
+  </Method>
+  <Method Token="6000020" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" StartLine="169" StartColumn="13" EndLine="169" EndColumn="89" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_001e" IsRoot="True" Method="6000020" ImportScope="11" />
+  </Method>
+  <Method Token="6000021" LocalVariablesSignatureToken="11000012">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" Hidden="true" />
+      <SequencePoint IlOffset="IL_000d" StartLine="179" StartColumn="13" EndLine="179" EndColumn="100" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_002b" IsRoot="True" Method="6000021" ImportScope="11">
+      <Scope OffsetRange="IL_0000-IL_002b" IsRoot="False" Method="6000021" ImportScope="11">
+        <LocalVariable LocalVariablesSignatureToken="11000012" IlIndex="0" Attributes="None">CS$&lt;&gt;8__locals0</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000022" LocalVariablesSignatureToken="11000013">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" Hidden="true" />
+      <SequencePoint IlOffset="IL_000d" StartLine="190" StartColumn="13" EndLine="190" EndColumn="126" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0039" IsRoot="True" Method="6000022" ImportScope="11">
+      <Scope OffsetRange="IL_0000-IL_0039" IsRoot="False" Method="6000022" ImportScope="11">
+        <LocalVariable LocalVariablesSignatureToken="11000013" IlIndex="0" Attributes="None">CS$&lt;&gt;8__locals0</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000023" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" StartLine="194" StartColumn="13" EndLine="194" EndColumn="58" />
+      <SequencePoint IlOffset="IL_000d" StartLine="195" StartColumn="13" EndLine="195" EndColumn="28" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000f" IsRoot="True" Method="6000023" ImportScope="11" />
+  </Method>
+  <Method Token="6000024" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" StartLine="204" StartColumn="13" EndLine="204" EndColumn="84" />
+      <SequencePoint IlOffset="IL_0015" StartLine="205" StartColumn="13" EndLine="205" EndColumn="28" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0017" IsRoot="True" Method="6000024" ImportScope="11" />
+  </Method>
+  <Method Token="6000026" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="6">
+      <SequencePoint IlOffset="IL_0000" StartLine="11" StartColumn="46" EndLine="11" EndColumn="50" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000026" />
+  </Method>
+  <Method Token="6000027" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="6">
+      <SequencePoint IlOffset="IL_0000" StartLine="11" StartColumn="51" EndLine="11" EndColumn="55" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0008" IsRoot="True" Method="6000027" />
+  </Method>
+  <Method Token="6000028" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="6">
+      <SequencePoint IlOffset="IL_0000" StartLine="12" StartColumn="49" EndLine="12" EndColumn="53" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000028" />
+  </Method>
+  <Method Token="6000029" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="6">
+      <SequencePoint IlOffset="IL_0000" StartLine="12" StartColumn="54" EndLine="12" EndColumn="58" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0008" IsRoot="True" Method="6000029" />
+  </Method>
+  <Method Token="600002A" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="6">
+      <SequencePoint IlOffset="IL_0000" StartLine="13" StartColumn="45" EndLine="13" EndColumn="49" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="600002A" />
+  </Method>
+  <Method Token="600002B" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="6">
+      <SequencePoint IlOffset="IL_0000" StartLine="13" StartColumn="50" EndLine="13" EndColumn="54" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0008" IsRoot="True" Method="600002B" />
+  </Method>
+  <Method Token="600002C" LocalVariablesSignatureToken="11000014">
+    <SequencePoints DocumentIndex="6">
+      <SequencePoint IlOffset="IL_0000" StartLine="17" StartColumn="13" EndLine="17" EndColumn="54" />
+      <SequencePoint IlOffset="IL_0007" StartLine="18" StartColumn="13" EndLine="18" EndColumn="33" />
+      <SequencePoint IlOffset="IL_000a" StartLine="20" StartColumn="17" EndLine="20" EndColumn="24" />
+      <SequencePoint IlOffset="IL_000b" StartLine="23" StartColumn="13" EndLine="23" EndColumn="47" />
+      <SequencePoint IlOffset="IL_000d" StartLine="24" StartColumn="18" EndLine="24" EndColumn="27" />
+      <SequencePoint IlOffset="IL_000f" Hidden="true" />
+      <SequencePoint IlOffset="IL_0011" StartLine="26" StartColumn="17" EndLine="26" EndColumn="72" />
+      <SequencePoint IlOffset="IL_0019" StartLine="27" StartColumn="17" EndLine="27" EndColumn="53" />
+      <SequencePoint IlOffset="IL_0022" StartLine="32" StartColumn="17" EndLine="32" EndColumn="110" />
+      <SequencePoint IlOffset="IL_0037" StartLine="24" StartColumn="49" EndLine="24" EndColumn="52" />
+      <SequencePoint IlOffset="IL_003b" StartLine="24" StartColumn="29" EndLine="24" EndColumn="47" />
+      <SequencePoint IlOffset="IL_0041" StartLine="35" StartColumn="13" EndLine="35" EndColumn="60" />
+      <SequencePoint IlOffset="IL_004d" StartLine="37" StartColumn="17" EndLine="37" EndColumn="47" />
+      <SequencePoint IlOffset="IL_0053" StartLine="56" StartColumn="9" EndLine="56" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0054" IsRoot="True" Method="600002C" ImportScope="15">
+      <Scope OffsetRange="IL_0000-IL_0054" IsRoot="False" Method="600002C" ImportScope="15">
+        <LocalVariable LocalVariablesSignatureToken="11000014" IlIndex="0" Attributes="None">loggers</LocalVariable>
+        <LocalVariable LocalVariablesSignatureToken="11000014" IlIndex="1" Attributes="None">exceptions</LocalVariable>
+        <Scope OffsetRange="IL_000d-IL_0041" IsRoot="False" Method="600002C" ImportScope="15">
+          <LocalVariable LocalVariablesSignatureToken="11000014" IlIndex="2" Attributes="None">i</LocalVariable>
+          <Scope OffsetRange="IL_0011-IL_0037" IsRoot="False" Method="600002C" ImportScope="15">
+            <LocalVariable LocalVariablesSignatureToken="11000014" IlIndex="3" Attributes="None">loggerInfo</LocalVariable>
+          </Scope>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600002D" LocalVariablesSignatureToken="11000014">
+    <SequencePoints DocumentIndex="6">
+      <SequencePoint IlOffset="IL_0000" StartLine="60" StartColumn="13" EndLine="60" EndColumn="54" />
+      <SequencePoint IlOffset="IL_0007" StartLine="61" StartColumn="13" EndLine="61" EndColumn="33" />
+      <SequencePoint IlOffset="IL_000a" StartLine="63" StartColumn="17" EndLine="63" EndColumn="30" />
+      <SequencePoint IlOffset="IL_000c" StartLine="66" StartColumn="13" EndLine="66" EndColumn="47" />
+      <SequencePoint IlOffset="IL_000e" StartLine="67" StartColumn="13" EndLine="67" EndColumn="23" />
+      <SequencePoint IlOffset="IL_0010" Hidden="true" />
+      <SequencePoint IlOffset="IL_0012" StartLine="70" StartColumn="17" EndLine="70" EndColumn="72" />
+      <SequencePoint IlOffset="IL_001a" StartLine="71" StartColumn="17" EndLine="71" EndColumn="53" />
+      <SequencePoint IlOffset="IL_0023" StartLine="76" StartColumn="17" EndLine="76" EndColumn="82" />
+      <SequencePoint IlOffset="IL_0033" StartLine="68" StartColumn="40" EndLine="68" EndColumn="43" />
+      <SequencePoint IlOffset="IL_0037" StartLine="68" StartColumn="20" EndLine="68" EndColumn="38" />
+      <SequencePoint IlOffset="IL_003d" StartLine="82" StartColumn="13" EndLine="82" EndColumn="60" />
+      <SequencePoint IlOffset="IL_0049" StartLine="84" StartColumn="17" EndLine="84" EndColumn="47" />
+      <SequencePoint IlOffset="IL_004f" StartLine="87" StartColumn="13" EndLine="87" EndColumn="54" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0059" IsRoot="True" Method="600002D" ImportScope="15">
+      <Scope OffsetRange="IL_0000-IL_0059" IsRoot="False" Method="600002D" ImportScope="15">
+        <LocalVariable LocalVariablesSignatureToken="11000014" IlIndex="0" Attributes="None">loggers</LocalVariable>
+        <LocalVariable LocalVariablesSignatureToken="11000014" IlIndex="1" Attributes="None">exceptions</LocalVariable>
+        <LocalVariable LocalVariablesSignatureToken="11000014" IlIndex="2" Attributes="None">i</LocalVariable>
+        <Scope OffsetRange="IL_0012-IL_0033" IsRoot="False" Method="600002D" ImportScope="15">
+          <LocalVariable LocalVariablesSignatureToken="11000014" IlIndex="3" Attributes="None">loggerInfo</LocalVariable>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600002E" LocalVariablesSignatureToken="11000015">
+    <SequencePoints DocumentIndex="6">
+      <SequencePoint IlOffset="IL_0000" StartLine="114" StartColumn="13" EndLine="114" EndColumn="50" />
+      <SequencePoint IlOffset="IL_0007" StartLine="116" StartColumn="13" EndLine="116" EndColumn="33" />
+      <SequencePoint IlOffset="IL_000a" StartLine="118" StartColumn="17" EndLine="118" EndColumn="43" />
+      <SequencePoint IlOffset="IL_0010" StartLine="121" StartColumn="13" EndLine="121" EndColumn="37" />
+      <SequencePoint IlOffset="IL_0016" StartLine="123" StartColumn="17" EndLine="123" EndColumn="54" />
+      <SequencePoint IlOffset="IL_0024" StartLine="126" StartColumn="13" EndLine="126" EndColumn="51" />
+      <SequencePoint IlOffset="IL_002d" StartLine="127" StartColumn="13" EndLine="127" EndColumn="47" />
+      <SequencePoint IlOffset="IL_002f" StartLine="128" StartColumn="18" EndLine="128" EndColumn="27" />
+      <SequencePoint IlOffset="IL_0031" Hidden="true" />
+      <SequencePoint IlOffset="IL_0033" StartLine="130" StartColumn="17" EndLine="130" EndColumn="71" />
+      <SequencePoint IlOffset="IL_003c" StartLine="134" StartColumn="21" EndLine="134" EndColumn="76" />
+      <SequencePoint IlOffset="IL_004b" StartLine="135" StartColumn="17" EndLine="135" EndColumn="18" />
+      <SequencePoint IlOffset="IL_004d" StartLine="136" StartColumn="17" EndLine="136" EndColumn="37" />
+      <SequencePoint IlOffset="IL_004f" StartLine="138" StartColumn="21" EndLine="138" EndColumn="44" />
+      <SequencePoint IlOffset="IL_0052" StartLine="140" StartColumn="25" EndLine="140" EndColumn="60" />
+      <SequencePoint IlOffset="IL_0058" StartLine="143" StartColumn="21" EndLine="143" EndColumn="40" />
+      <SequencePoint IlOffset="IL_0060" StartLine="144" StartColumn="17" EndLine="144" EndColumn="18" />
+      <SequencePoint IlOffset="IL_0062" StartLine="128" StartColumn="49" EndLine="128" EndColumn="52" />
+      <SequencePoint IlOffset="IL_0066" StartLine="128" StartColumn="29" EndLine="128" EndColumn="47" />
+      <SequencePoint IlOffset="IL_006c" StartLine="147" StartColumn="13" EndLine="147" EndColumn="60" />
+      <SequencePoint IlOffset="IL_0078" StartLine="149" StartColumn="17" EndLine="149" EndColumn="47" />
+      <SequencePoint IlOffset="IL_007e" StartLine="152" StartColumn="13" EndLine="152" EndColumn="26" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0080" IsRoot="True" Method="600002E" ImportScope="15">
+      <Scope OffsetRange="IL_0000-IL_0080" IsRoot="False" Method="600002E" ImportScope="15">
+        <LocalVariable LocalVariablesSignatureToken="11000015" IlIndex="0" Attributes="None">loggers</LocalVariable>
+        <LocalVariable LocalVariablesSignatureToken="11000015" IlIndex="1" Attributes="None">scope</LocalVariable>
+        <LocalVariable LocalVariablesSignatureToken="11000015" IlIndex="2" Attributes="None">exceptions</LocalVariable>
+        <Scope OffsetRange="IL_002f-IL_006c" IsRoot="False" Method="600002E" ImportScope="15">
+          <LocalVariable LocalVariablesSignatureToken="11000015" IlIndex="3" Attributes="None">i</LocalVariable>
+          <Scope OffsetRange="IL_0033-IL_0062" IsRoot="False" Method="600002E" ImportScope="15">
+            <LocalVariable LocalVariablesSignatureToken="11000015" IlIndex="4" Attributes="None">scopeLogger</LocalVariable>
+            <Scope OffsetRange="IL_004d-IL_0062" IsRoot="False" Method="600002E" ImportScope="15">
+              <LocalVariable LocalVariablesSignatureToken="11000015" IlIndex="5" Attributes="None">ex</LocalVariable>
+            </Scope>
+          </Scope>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600002F" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="6">
+      <SequencePoint IlOffset="IL_0000" StartLine="157" StartColumn="13" EndLine="158" EndColumn="104" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000c" IsRoot="True" Method="600002F" ImportScope="15" />
+  </Method>
+  <Method Token="6000031" LocalVariablesSignatureToken="11000016">
+    <SequencePoints DocumentIndex="6">
+      <SequencePoint IlOffset="IL_0000" StartLine="44" StartColumn="21" EndLine="44" EndColumn="80" />
+      <SequencePoint IlOffset="IL_0012" StartLine="45" StartColumn="17" EndLine="45" EndColumn="18" />
+      <SequencePoint IlOffset="IL_0014" StartLine="46" StartColumn="17" EndLine="46" EndColumn="37" />
+      <SequencePoint IlOffset="IL_0015" StartLine="48" StartColumn="21" EndLine="48" EndColumn="44" />
+      <SequencePoint IlOffset="IL_001a" StartLine="50" StartColumn="25" EndLine="50" EndColumn="60" />
+      <SequencePoint IlOffset="IL_0022" StartLine="53" StartColumn="21" EndLine="53" EndColumn="40" />
+      <SequencePoint IlOffset="IL_002b" StartLine="54" StartColumn="17" EndLine="54" EndColumn="18" />
+      <SequencePoint IlOffset="IL_002d" StartLine="55" StartColumn="13" EndLine="55" EndColumn="14" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_002e" IsRoot="True" Method="6000031" ImportScope="15">
+      <Scope OffsetRange="IL_0014-IL_002d" IsRoot="False" Method="6000031" ImportScope="15">
+        <LocalVariable LocalVariablesSignatureToken="11000016" IlIndex="0" Attributes="None">ex</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000032" LocalVariablesSignatureToken="11000017">
+    <SequencePoints DocumentIndex="6">
+      <SequencePoint IlOffset="IL_0000" StartLine="93" StartColumn="21" EndLine="93" EndColumn="52" />
+      <SequencePoint IlOffset="IL_0009" StartLine="95" StartColumn="25" EndLine="95" EndColumn="37" />
+      <SequencePoint IlOffset="IL_000d" StartLine="97" StartColumn="17" EndLine="97" EndColumn="18" />
+      <SequencePoint IlOffset="IL_000f" StartLine="98" StartColumn="17" EndLine="98" EndColumn="37" />
+      <SequencePoint IlOffset="IL_0010" StartLine="100" StartColumn="21" EndLine="100" EndColumn="44" />
+      <SequencePoint IlOffset="IL_0014" StartLine="102" StartColumn="25" EndLine="102" EndColumn="60" />
+      <SequencePoint IlOffset="IL_001b" StartLine="105" StartColumn="21" EndLine="105" EndColumn="40" />
+      <SequencePoint IlOffset="IL_0023" StartLine="106" StartColumn="17" EndLine="106" EndColumn="18" />
+      <SequencePoint IlOffset="IL_0025" StartLine="108" StartColumn="17" EndLine="108" EndColumn="30" />
+      <SequencePoint IlOffset="IL_0027" StartLine="109" StartColumn="13" EndLine="109" EndColumn="14" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0029" IsRoot="True" Method="6000032" ImportScope="15">
+      <Scope OffsetRange="IL_000f-IL_0025" IsRoot="False" Method="6000032" ImportScope="15">
+        <LocalVariable LocalVariablesSignatureToken="11000017" IlIndex="1" Attributes="None">ex</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000033" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="7">
+      <SequencePoint IlOffset="IL_0000" StartLine="31" StartColumn="34" EndLine="31" EndColumn="75" />
+      <SequencePoint IlOffset="IL_000b" StartLine="33" StartColumn="9" EndLine="33" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000c" IsRoot="True" Method="6000033" ImportScope="19" />
+  </Method>
+  <Method Token="6000034" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="7">
+      <SequencePoint IlOffset="IL_0000" StartLine="39" StartColumn="72" EndLine="39" EndColumn="146" />
+      <SequencePoint IlOffset="IL_0011" StartLine="41" StartColumn="9" EndLine="41" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0012" IsRoot="True" Method="6000034" ImportScope="19" />
+  </Method>
+  <Method Token="6000035" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="7">
+      <SequencePoint IlOffset="IL_0000" StartLine="48" StartColumn="107" EndLine="48" EndColumn="169" />
+      <SequencePoint IlOffset="IL_000d" StartLine="50" StartColumn="9" EndLine="50" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000e" IsRoot="True" Method="6000035" ImportScope="19" />
+  </Method>
+  <Method Token="6000036" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="7">
+      <SequencePoint IlOffset="IL_0000" StartLine="57" StartColumn="123" EndLine="57" EndColumn="158" />
+      <SequencePoint IlOffset="IL_0009" StartLine="59" StartColumn="9" EndLine="59" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000a" IsRoot="True" Method="6000036" ImportScope="19" />
+  </Method>
+  <Method Token="6000037" LocalVariablesSignatureToken="11000018">
+    <SequencePoints DocumentIndex="7">
+      <SequencePoint IlOffset="IL_0000" StartLine="19" StartColumn="9" EndLine="19" EndColumn="119" />
+      <SequencePoint IlOffset="IL_0010" StartLine="20" StartColumn="9" EndLine="20" EndColumn="111" />
+      <SequencePoint IlOffset="IL_001b" StartLine="21" StartColumn="9" EndLine="21" EndColumn="54" />
+      <SequencePoint IlOffset="IL_0026" StartLine="67" StartColumn="9" EndLine="67" EndColumn="167" />
+      <SequencePoint IlOffset="IL_002c" StartLine="69" StartColumn="13" EndLine="69" EndColumn="117" />
+      <SequencePoint IlOffset="IL_004a" StartLine="74" StartColumn="13" EndLine="74" EndColumn="94" />
+      <SequencePoint IlOffset="IL_005a" StartLine="76" StartColumn="17" EndLine="76" EndColumn="149" />
+      <SequencePoint IlOffset="IL_007f" StartLine="79" StartColumn="50" EndLine="79" EndColumn="59" />
+      <SequencePoint IlOffset="IL_0086" Hidden="true" />
+      <SequencePoint IlOffset="IL_0088" StartLine="79" StartColumn="22" EndLine="79" EndColumn="46" />
+      <SequencePoint IlOffset="IL_008f" StartLine="81" StartColumn="17" EndLine="81" EndColumn="67" />
+      <SequencePoint IlOffset="IL_0097" StartLine="79" StartColumn="47" EndLine="79" EndColumn="49" />
+      <SequencePoint IlOffset="IL_00a1" Hidden="true" />
+      <SequencePoint IlOffset="IL_00aa" Hidden="true" />
+      <SequencePoint IlOffset="IL_00ab" StartLine="84" StartColumn="13" EndLine="84" EndColumn="78" />
+      <SequencePoint IlOffset="IL_00c3" StartLine="85" StartColumn="13" EndLine="85" EndColumn="55" />
+      <SequencePoint IlOffset="IL_00cf" StartLine="86" StartColumn="9" EndLine="86" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_00d0" IsRoot="True" Method="6000037" ImportScope="19">
+      <Scope OffsetRange="IL_0088-IL_0097" IsRoot="False" Method="6000037" ImportScope="19">
+        <LocalVariable LocalVariablesSignatureToken="11000018" IlIndex="1" Attributes="None">provider</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000038" LocalVariablesSignatureToken="11000019">
+    <SequencePoints DocumentIndex="7">
+      <SequencePoint IlOffset="IL_0000" StartLine="95" StartColumn="13" EndLine="95" EndColumn="61" />
+      <SequencePoint IlOffset="IL_0006" StartLine="96" StartColumn="13" EndLine="96" EndColumn="53" />
+      <SequencePoint IlOffset="IL_000e" StartLine="97" StartColumn="13" EndLine="97" EndColumn="88" />
+      <SequencePoint IlOffset="IL_0015" StartLine="98" StartColumn="13" EndLine="98" EndColumn="89" />
+      <SequencePoint IlOffset="IL_001c" StartLine="99" StartColumn="13" EndLine="99" EndColumn="79" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0024" IsRoot="True" Method="6000038" ImportScope="19">
+      <Scope OffsetRange="IL_0000-IL_0024" IsRoot="False" Method="6000038" ImportScope="19">
+        <LocalVariable LocalVariablesSignatureToken="11000019" IlIndex="0" Attributes="None">serviceCollection</LocalVariable>
+        <LocalVariable LocalVariablesSignatureToken="11000019" IlIndex="1" Attributes="None">serviceProvider</LocalVariable>
+        <LocalVariable LocalVariablesSignatureToken="11000019" IlIndex="2" Attributes="None">loggerFactory</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000039" LocalVariablesSignatureToken="1100001A">
+    <SequencePoints DocumentIndex="7">
+      <SequencePoint IlOffset="IL_0000" StartLine="104" StartColumn="13" EndLine="104" EndColumn="25" />
+      <SequencePoint IlOffset="IL_0011" StartLine="106" StartColumn="17" EndLine="106" EndColumn="48" />
+      <SequencePoint IlOffset="IL_0018" StartLine="107" StartColumn="75" EndLine="107" EndColumn="83" />
+      <SequencePoint IlOffset="IL_0024" Hidden="true" />
+      <SequencePoint IlOffset="IL_0026" StartLine="107" StartColumn="26" EndLine="107" EndColumn="71" />
+      <SequencePoint IlOffset="IL_002e" StartLine="109" StartColumn="21" EndLine="109" EndColumn="60" />
+      <SequencePoint IlOffset="IL_0037" StartLine="110" StartColumn="21" EndLine="110" EndColumn="97" />
+      <SequencePoint IlOffset="IL_006c" StartLine="107" StartColumn="72" EndLine="107" EndColumn="74" />
+      <SequencePoint IlOffset="IL_0077" Hidden="true" />
+      <SequencePoint IlOffset="IL_0085" Hidden="true" />
+      <SequencePoint IlOffset="IL_008e" Hidden="true" />
+      <SequencePoint IlOffset="IL_008f" StartLine="113" StartColumn="9" EndLine="113" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0090" IsRoot="True" Method="6000039" ImportScope="19">
+      <Scope OffsetRange="IL_0026-IL_006c" IsRoot="False" Method="6000039" ImportScope="19">
+        <LocalVariable LocalVariablesSignatureToken="1100001A" IlIndex="3" Attributes="None">registeredLogger</LocalVariable>
+        <Scope OffsetRange="IL_002e-IL_006c" IsRoot="False" Method="6000039" ImportScope="19">
+          <LocalVariable LocalVariablesSignatureToken="1100001A" IlIndex="4" Attributes="None">logger</LocalVariable>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600003A" LocalVariablesSignatureToken="1100001B">
+    <SequencePoints DocumentIndex="7">
+      <SequencePoint IlOffset="IL_0000" StartLine="122" StartColumn="13" EndLine="122" EndColumn="33" />
+      <SequencePoint IlOffset="IL_0008" StartLine="124" StartColumn="17" EndLine="124" EndColumn="74" />
+      <SequencePoint IlOffset="IL_0013" StartLine="127" StartColumn="13" EndLine="127" EndColumn="25" />
+      <SequencePoint IlOffset="IL_0024" StartLine="129" StartColumn="17" EndLine="129" EndColumn="76" />
+      <SequencePoint IlOffset="IL_0034" StartLine="131" StartColumn="21" EndLine="134" EndColumn="23" />
+      <SequencePoint IlOffset="IL_0047" StartLine="136" StartColumn="21" EndLine="136" EndColumn="97" />
+      <SequencePoint IlOffset="IL_0077" StartLine="138" StartColumn="21" EndLine="138" EndColumn="53" />
+      <SequencePoint IlOffset="IL_0084" StartLine="141" StartColumn="17" EndLine="141" EndColumn="31" />
+      <SequencePoint IlOffset="IL_0089" Hidden="true" />
+      <SequencePoint IlOffset="IL_0092" Hidden="true" />
+      <SequencePoint IlOffset="IL_0093" StartLine="143" StartColumn="9" EndLine="143" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0096" IsRoot="True" Method="600003A" ImportScope="19">
+      <Scope OffsetRange="IL_0024-IL_0089" IsRoot="False" Method="600003A" ImportScope="19">
+        <LocalVariable LocalVariablesSignatureToken="1100001B" IlIndex="2" Attributes="None">logger</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600003B" LocalVariablesSignatureToken="1100001C">
+    <SequencePoints DocumentIndex="7">
+      <SequencePoint IlOffset="IL_0000" StartLine="151" StartColumn="13" EndLine="151" EndColumn="33" />
+      <SequencePoint IlOffset="IL_0008" StartLine="153" StartColumn="17" EndLine="153" EndColumn="74" />
+      <SequencePoint IlOffset="IL_0013" StartLine="156" StartColumn="13" EndLine="156" EndColumn="25" />
+      <SequencePoint IlOffset="IL_0024" StartLine="158" StartColumn="17" EndLine="158" EndColumn="66" />
+      <SequencePoint IlOffset="IL_002c" StartLine="160" StartColumn="73" EndLine="160" EndColumn="81" />
+      <SequencePoint IlOffset="IL_0038" Hidden="true" />
+      <SequencePoint IlOffset="IL_003d" StartLine="160" StartColumn="26" EndLine="160" EndColumn="69" />
+      <SequencePoint IlOffset="IL_0045" StartLine="162" StartColumn="21" EndLine="162" EndColumn="58" />
+      <SequencePoint IlOffset="IL_004e" StartLine="163" StartColumn="21" EndLine="163" EndColumn="76" />
+      <SequencePoint IlOffset="IL_0057" StartLine="165" StartColumn="21" EndLine="165" EndColumn="67" />
+      <SequencePoint IlOffset="IL_005d" StartLine="166" StartColumn="21" EndLine="166" EndColumn="87" />
+      <SequencePoint IlOffset="IL_006a" StartLine="167" StartColumn="21" EndLine="167" EndColumn="109" />
+      <SequencePoint IlOffset="IL_0080" StartLine="169" StartColumn="21" EndLine="169" EndColumn="56" />
+      <SequencePoint IlOffset="IL_0089" StartLine="170" StartColumn="21" EndLine="170" EndColumn="97" />
+      <SequencePoint IlOffset="IL_00be" StartLine="160" StartColumn="70" EndLine="160" EndColumn="72" />
+      <SequencePoint IlOffset="IL_00cc" Hidden="true" />
+      <SequencePoint IlOffset="IL_00da" Hidden="true" />
+      <SequencePoint IlOffset="IL_00e3" Hidden="true" />
+      <SequencePoint IlOffset="IL_00e4" StartLine="173" StartColumn="9" EndLine="173" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_00e5" IsRoot="True" Method="600003B" ImportScope="19">
+      <Scope OffsetRange="IL_003d-IL_00be" IsRoot="False" Method="600003B" ImportScope="19">
+        <LocalVariable LocalVariablesSignatureToken="1100001C" IlIndex="3" Attributes="None">existingLogger</LocalVariable>
+        <Scope OffsetRange="IL_0045-IL_00be" IsRoot="False" Method="600003B" ImportScope="19">
+          <LocalVariable LocalVariablesSignatureToken="1100001C" IlIndex="4" Attributes="None">logger</LocalVariable>
+          <LocalVariable LocalVariablesSignatureToken="1100001C" IlIndex="5" Attributes="None">loggerInformation</LocalVariable>
+          <LocalVariable LocalVariablesSignatureToken="1100001C" IlIndex="6" Attributes="None">newLoggerIndex</LocalVariable>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600003C" LocalVariablesSignatureToken="1100001D">
+    <SequencePoints DocumentIndex="7">
+      <SequencePoint IlOffset="IL_0000" StartLine="177" StartColumn="13" EndLine="181" EndColumn="16" />
+      <SequencePoint IlOffset="IL_0024" StartLine="183" StartColumn="13" EndLine="183" EndColumn="73" />
+      <SequencePoint IlOffset="IL_002e" StartLine="185" StartColumn="17" EndLine="185" EndColumn="44" />
+      <SequencePoint IlOffset="IL_0036" StartLine="187" StartColumn="21" EndLine="187" EndColumn="110" />
+      <SequencePoint IlOffset="IL_004c" StartLine="190" StartColumn="17" EndLine="190" EndColumn="72" />
+      <SequencePoint IlOffset="IL_0058" StartLine="192" StartColumn="9" EndLine="192" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0059" IsRoot="True" Method="600003C" ImportScope="19">
+      <Scope OffsetRange="IL_0000-IL_0059" IsRoot="False" Method="600003C" ImportScope="19">
+        <LocalVariable LocalVariablesSignatureToken="1100001D" IlIndex="0" Attributes="None">supportsExternalScope</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600003D" LocalVariablesSignatureToken="1100001E">
+    <SequencePoints DocumentIndex="7">
+      <SequencePoint IlOffset="IL_0000" StartLine="196" StartColumn="13" EndLine="196" EndColumn="79" />
+      <SequencePoint IlOffset="IL_0011" StartLine="197" StartColumn="18" EndLine="197" EndColumn="27" />
+      <SequencePoint IlOffset="IL_0013" Hidden="true" />
+      <SequencePoint IlOffset="IL_0015" StartLine="199" StartColumn="17" EndLine="199" EndColumn="102" />
+      <SequencePoint IlOffset="IL_0033" StartLine="197" StartColumn="63" EndLine="197" EndColumn="66" />
+      <SequencePoint IlOffset="IL_0037" StartLine="197" StartColumn="29" EndLine="197" EndColumn="61" />
+      <SequencePoint IlOffset="IL_0045" StartLine="201" StartColumn="13" EndLine="201" EndColumn="28" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0047" IsRoot="True" Method="600003D" ImportScope="19">
+      <Scope OffsetRange="IL_0000-IL_0047" IsRoot="False" Method="600003D" ImportScope="19">
+        <LocalVariable LocalVariablesSignatureToken="1100001E" IlIndex="0" Attributes="None">loggers</LocalVariable>
+        <Scope OffsetRange="IL_0011-IL_0045" IsRoot="False" Method="600003D" ImportScope="19">
+          <LocalVariable LocalVariablesSignatureToken="1100001E" IlIndex="1" Attributes="None">i</LocalVariable>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600003E" LocalVariablesSignatureToken="1100001F">
+    <SequencePoints DocumentIndex="7">
+      <SequencePoint IlOffset="IL_0000" StartLine="206" StartColumn="13" EndLine="206" EndColumn="60" />
+      <SequencePoint IlOffset="IL_0006" StartLine="207" StartColumn="13" EndLine="207" EndColumn="108" />
+      <SequencePoint IlOffset="IL_001c" StartLine="209" StartColumn="61" EndLine="209" EndColumn="68" />
+      <SequencePoint IlOffset="IL_0020" Hidden="true" />
+      <SequencePoint IlOffset="IL_0025" StartLine="209" StartColumn="22" EndLine="209" EndColumn="57" />
+      <SequencePoint IlOffset="IL_002e" StartLine="211" StartColumn="17" EndLine="215" EndColumn="70" />
+      <SequencePoint IlOffset="IL_0050" StartLine="217" StartColumn="17" EndLine="217" EndColumn="70" />
+      <SequencePoint IlOffset="IL_0075" StartLine="222" StartColumn="17" EndLine="222" EndColumn="168" />
+      <SequencePoint IlOffset="IL_009e" StartLine="224" StartColumn="17" EndLine="224" EndColumn="54" />
+      <SequencePoint IlOffset="IL_00a7" StartLine="226" StartColumn="21" EndLine="226" EndColumn="119" />
+      <SequencePoint IlOffset="IL_00bd" Hidden="true" />
+      <SequencePoint IlOffset="IL_00c1" StartLine="209" StartColumn="58" EndLine="209" EndColumn="60" />
+      <SequencePoint IlOffset="IL_00ca" StartLine="230" StartColumn="13" EndLine="230" EndColumn="40" />
+      <SequencePoint IlOffset="IL_00d2" StartLine="232" StartColumn="17" EndLine="232" EndColumn="105" />
+      <SequencePoint IlOffset="IL_00e7" StartLine="235" StartColumn="13" EndLine="235" EndColumn="72" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_00ff" IsRoot="True" Method="600003E" ImportScope="19">
+      <Scope OffsetRange="IL_0000-IL_00ff" IsRoot="False" Method="600003E" ImportScope="19">
+        <LocalVariable LocalVariablesSignatureToken="1100001F" IlIndex="0" Attributes="None">messageLoggers</LocalVariable>
+        <LocalVariable LocalVariablesSignatureToken="1100001F" IlIndex="1" Attributes="None">scopeLoggers</LocalVariable>
+        <Scope OffsetRange="IL_0025-IL_00bd" IsRoot="False" Method="600003E" ImportScope="19">
+          <LocalVariable LocalVariablesSignatureToken="1100001F" IlIndex="4" Attributes="None">loggerInformation</LocalVariable>
+          <Scope OffsetRange="IL_002e-IL_00bd" IsRoot="False" Method="600003E" ImportScope="19">
+            <LocalVariable LocalVariablesSignatureToken="1100001F" IlIndex="5" Attributes="None">minLevel</LocalVariable>
+            <LocalVariable LocalVariablesSignatureToken="1100001F" IlIndex="6" Attributes="None">filter</LocalVariable>
+          </Scope>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600003F" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="7">
+      <SequencePoint IlOffset="IL_0000" StartLine="242" StartColumn="51" EndLine="242" EndColumn="60" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0009" IsRoot="True" Method="600003F" ImportScope="19" />
+  </Method>
+  <Method Token="6000040" LocalVariablesSignatureToken="11000020">
+    <SequencePoints DocumentIndex="7">
+      <SequencePoint IlOffset="IL_0000" StartLine="247" StartColumn="13" EndLine="247" EndColumn="28" />
+      <SequencePoint IlOffset="IL_000a" StartLine="249" StartColumn="17" EndLine="249" EndColumn="34" />
+      <SequencePoint IlOffset="IL_0013" StartLine="251" StartColumn="17" EndLine="251" EndColumn="53" />
+      <SequencePoint IlOffset="IL_0024" StartLine="253" StartColumn="63" EndLine="253" EndColumn="85" />
+      <SequencePoint IlOffset="IL_0030" Hidden="true" />
+      <SequencePoint IlOffset="IL_0032" StartLine="253" StartColumn="26" EndLine="253" EndColumn="59" />
+      <SequencePoint IlOffset="IL_003a" StartLine="257" StartColumn="25" EndLine="257" EndColumn="56" />
+      <SequencePoint IlOffset="IL_0042" StartLine="259" StartColumn="29" EndLine="259" EndColumn="61" />
+      <SequencePoint IlOffset="IL_004d" StartLine="261" StartColumn="21" EndLine="261" EndColumn="22" />
+      <SequencePoint IlOffset="IL_004f" StartLine="262" StartColumn="21" EndLine="262" EndColumn="26" />
+      <SequencePoint IlOffset="IL_0050" StartLine="265" StartColumn="21" EndLine="265" EndColumn="22" />
+      <SequencePoint IlOffset="IL_0052" StartLine="253" StartColumn="60" EndLine="253" EndColumn="62" />
+      <SequencePoint IlOffset="IL_005d" Hidden="true" />
+      <SequencePoint IlOffset="IL_006b" StartLine="268" StartColumn="9" EndLine="268" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_006c" IsRoot="True" Method="6000040" ImportScope="19">
+      <Scope OffsetRange="IL_0032-IL_0052" IsRoot="False" Method="6000040" ImportScope="19">
+        <LocalVariable LocalVariablesSignatureToken="11000020" IlIndex="1" Attributes="None">registration</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000041" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="7">
+      <SequencePoint IlOffset="IL_0000" StartLine="17" StartColumn="9" EndLine="17" EndColumn="92" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000b" IsRoot="True" Method="6000041" ImportScope="19" />
+  </Method>
+  <Method Token="6000042" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="8">
+      <SequencePoint IlOffset="IL_0000" StartLine="16" StartColumn="9" EndLine="16" EndColumn="38" />
+      <SequencePoint IlOffset="IL_0006" StartLine="16" StartColumn="41" EndLine="16" EndColumn="42" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000042" ImportScope="1D" />
+  </Method>
+  <Method Token="6000043" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="8">
+      <SequencePoint IlOffset="IL_0000" StartLine="21" StartColumn="68" EndLine="21" EndColumn="72" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000043" />
+  </Method>
+  <Method Token="6000044" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="8">
+      <SequencePoint IlOffset="IL_0000" StartLine="21" StartColumn="73" EndLine="21" EndColumn="77" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0008" IsRoot="True" Method="6000044" />
+  </Method>
+  <Method Token="6000045" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="9">
+      <SequencePoint IlOffset="IL_0000" StartLine="19" StartColumn="9" EndLine="19" EndColumn="84" />
+      <SequencePoint IlOffset="IL_000b" StartLine="22" StartColumn="9" EndLine="22" EndColumn="90" />
+      <SequencePoint IlOffset="IL_0011" StartLine="22" StartColumn="94" EndLine="22" EndColumn="142" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0019" IsRoot="True" Method="6000045" ImportScope="21" />
+  </Method>
+  <Method Token="6000046" LocalVariablesSignatureToken="11000021">
+    <SequencePoints DocumentIndex="9">
+      <SequencePoint IlOffset="IL_0000" Hidden="true" />
+      <SequencePoint IlOffset="IL_0010" StartLine="36" StartColumn="13" EndLine="36" EndColumn="73" />
+      <SequencePoint IlOffset="IL_0018" StartLine="38" StartColumn="17" EndLine="38" EndColumn="54" />
+      <SequencePoint IlOffset="IL_001e" StartLine="39" StartColumn="17" EndLine="39" EndColumn="38" />
+      <SequencePoint IlOffset="IL_0021" StartLine="43" StartColumn="21" EndLine="43" EndColumn="117" />
+      <SequencePoint IlOffset="IL_0032" StartLine="44" StartColumn="21" EndLine="44" EndColumn="50" />
+      <SequencePoint IlOffset="IL_0035" StartLine="46" StartColumn="25" EndLine="46" EndColumn="100" />
+      <SequencePoint IlOffset="IL_0042" StartLine="47" StartColumn="25" EndLine="47" EndColumn="83" />
+      <SequencePoint IlOffset="IL_004e" StartLine="50" StartColumn="21" EndLine="50" EndColumn="55" />
+      <SequencePoint IlOffset="IL_0060" StartLine="54" StartColumn="13" EndLine="54" EndColumn="41" />
+      <SequencePoint IlOffset="IL_0072" StartLine="55" StartColumn="9" EndLine="55" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0073" IsRoot="True" Method="6000046" ImportScope="21">
+      <Scope OffsetRange="IL_0000-IL_0073" IsRoot="False" Method="6000046" ImportScope="21">
+        <LocalVariable LocalVariablesSignatureToken="11000021" IlIndex="0" Attributes="None">CS$&lt;&gt;8__locals0</LocalVariable>
+        <Scope OffsetRange="IL_0018-IL_0060" IsRoot="False" Method="6000046" ImportScope="21">
+          <LocalVariable LocalVariablesSignatureToken="11000021" IlIndex="1" Attributes="None">activity</LocalVariable>
+          <Scope OffsetRange="IL_0021-IL_0060" IsRoot="False" Method="6000046" ImportScope="21">
+            <LocalVariable LocalVariablesSignatureToken="11000021" IlIndex="2" Attributes="None">activityLogScope</LocalVariable>
+          </Scope>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000047" LocalVariablesSignatureToken="11000022">
+    <SequencePoints DocumentIndex="9">
+      <SequencePoint IlOffset="IL_0000" StartLine="59" StartColumn="13" EndLine="59" EndColumn="48" />
+      <SequencePoint IlOffset="IL_000c" StartLine="60" StartColumn="13" EndLine="60" EndColumn="59" />
+      <SequencePoint IlOffset="IL_0015" StartLine="61" StartColumn="13" EndLine="61" EndColumn="44" />
+      <SequencePoint IlOffset="IL_0021" StartLine="63" StartColumn="13" EndLine="63" EndColumn="29" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0023" IsRoot="True" Method="6000047" ImportScope="21">
+      <Scope OffsetRange="IL_0000-IL_0023" IsRoot="False" Method="6000047" ImportScope="21">
+        <LocalVariable LocalVariablesSignatureToken="11000022" IlIndex="0" Attributes="None">parent</LocalVariable>
+        <LocalVariable LocalVariablesSignatureToken="11000022" IlIndex="1" Attributes="None">newScope</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000048" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="9">
+      <SequencePoint IlOffset="IL_0000" StartLine="28" StartColumn="17" EndLine="28" EndColumn="37" />
+      <SequencePoint IlOffset="IL_0003" StartLine="30" StartColumn="21" EndLine="30" EndColumn="28" />
+      <SequencePoint IlOffset="IL_0004" StartLine="32" StartColumn="17" EndLine="32" EndColumn="40" />
+      <SequencePoint IlOffset="IL_0010" StartLine="33" StartColumn="17" EndLine="33" EndColumn="48" />
+      <SequencePoint IlOffset="IL_0027" StartLine="34" StartColumn="13" EndLine="34" EndColumn="14" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0028" IsRoot="True" Method="6000048" ImportScope="21" />
+  </Method>
+  <Method Token="6000049" LocalVariablesSignatureToken="11000023">
+    <SequencePoints DocumentIndex="9">
+      <SequencePoint IlOffset="IL_0000" StartLine="193" StartColumn="13" EndLine="198" EndColumn="31" />
+      <SequencePoint IlOffset="IL_0011" StartLine="195" StartColumn="50" EndLine="195" EndColumn="61" />
+      <SequencePoint IlOffset="IL_001a" StartLine="196" StartColumn="41" EndLine="196" EndColumn="70" />
+      <SequencePoint IlOffset="IL_002b" StartLine="197" StartColumn="22" EndLine="197" EndColumn="26" />
+      <SequencePoint IlOffset="IL_002d" Hidden="true" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0038" IsRoot="True" Method="6000049" ImportScope="21" />
+  </Method>
+  <Method Token="600004A" LocalVariablesSignatureToken="11000024">
+    <SequencePoints DocumentIndex="9">
+      <SequencePoint IlOffset="IL_0000" StartLine="203" StartColumn="13" EndLine="208" EndColumn="31" />
+      <SequencePoint IlOffset="IL_0011" StartLine="205" StartColumn="50" EndLine="205" EndColumn="65" />
+      <SequencePoint IlOffset="IL_001a" StartLine="206" StartColumn="41" EndLine="206" EndColumn="71" />
+      <SequencePoint IlOffset="IL_002b" StartLine="207" StartColumn="22" EndLine="207" EndColumn="26" />
+      <SequencePoint IlOffset="IL_002d" Hidden="true" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0038" IsRoot="True" Method="600004A" ImportScope="21" />
+  </Method>
+  <Method Token="600004B" LocalVariablesSignatureToken="11000023">
+    <SequencePoints DocumentIndex="9">
+      <SequencePoint IlOffset="IL_0000" StartLine="213" StartColumn="13" EndLine="218" EndColumn="31" />
+      <SequencePoint IlOffset="IL_0011" StartLine="215" StartColumn="50" EndLine="215" EndColumn="67" />
+      <SequencePoint IlOffset="IL_001a" StartLine="216" StartColumn="41" EndLine="216" EndColumn="76" />
+      <SequencePoint IlOffset="IL_002b" StartLine="217" StartColumn="22" EndLine="217" EndColumn="26" />
+      <SequencePoint IlOffset="IL_002d" Hidden="true" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0038" IsRoot="True" Method="600004B" ImportScope="21" />
+  </Method>
+  <Method Token="600004C" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="10">
+      <SequencePoint IlOffset="IL_0000" StartLine="21" StartColumn="51" EndLine="21" EndColumn="55" />
+      <SequencePoint IlOffset="IL_0007" StartLine="31" StartColumn="57" EndLine="31" EndColumn="85" />
+      <SequencePoint IlOffset="IL_0012" StartLine="16" StartColumn="9" EndLine="16" EndColumn="37" />
+      <SequencePoint IlOffset="IL_0018" StartLine="16" StartColumn="40" EndLine="16" EndColumn="41" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0019" IsRoot="True" Method="600004C" ImportScope="1D" />
+  </Method>
+  <Method Token="600004D" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="10">
+      <SequencePoint IlOffset="IL_0000" StartLine="21" StartColumn="37" EndLine="21" EndColumn="41" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="600004D" />
+  </Method>
+  <Method Token="600004E" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="10">
+      <SequencePoint IlOffset="IL_0000" StartLine="21" StartColumn="42" EndLine="21" EndColumn="46" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0008" IsRoot="True" Method="600004E" />
+  </Method>
+  <Method Token="600004F" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="10">
+      <SequencePoint IlOffset="IL_0000" StartLine="26" StartColumn="36" EndLine="26" EndColumn="40" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="600004F" />
+  </Method>
+  <Method Token="6000050" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="10">
+      <SequencePoint IlOffset="IL_0000" StartLine="26" StartColumn="41" EndLine="26" EndColumn="45" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0008" IsRoot="True" Method="6000050" />
+  </Method>
+  <Method Token="6000051" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="10">
+      <SequencePoint IlOffset="IL_0000" StartLine="31" StartColumn="48" EndLine="31" EndColumn="52" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000051" />
+  </Method>
+  <Method Token="6000052" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="11">
+      <SequencePoint IlOffset="IL_0000" StartLine="20" StartColumn="9" EndLine="20" EndColumn="139" />
+      <SequencePoint IlOffset="IL_0006" StartLine="22" StartColumn="13" EndLine="22" EndColumn="41" />
+      <SequencePoint IlOffset="IL_000d" StartLine="23" StartColumn="13" EndLine="23" EndColumn="41" />
+      <SequencePoint IlOffset="IL_0014" StartLine="24" StartColumn="13" EndLine="24" EndColumn="33" />
+      <SequencePoint IlOffset="IL_001b" StartLine="25" StartColumn="13" EndLine="25" EndColumn="29" />
+      <SequencePoint IlOffset="IL_0023" StartLine="26" StartColumn="9" EndLine="26" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0024" IsRoot="True" Method="6000052" ImportScope="25" />
+  </Method>
+  <Method Token="6000053" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="11">
+      <SequencePoint IlOffset="IL_0000" StartLine="31" StartColumn="38" EndLine="31" EndColumn="42" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000053" />
+  </Method>
+  <Method Token="6000054" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="11">
+      <SequencePoint IlOffset="IL_0000" StartLine="36" StartColumn="38" EndLine="36" EndColumn="42" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000054" />
+  </Method>
+  <Method Token="6000055" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="11">
+      <SequencePoint IlOffset="IL_0000" StartLine="41" StartColumn="37" EndLine="41" EndColumn="41" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000055" />
+  </Method>
+  <Method Token="6000056" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="11">
+      <SequencePoint IlOffset="IL_0000" StartLine="46" StartColumn="62" EndLine="46" EndColumn="66" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000056" />
+  </Method>
+  <Method Token="6000057" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="11">
+      <SequencePoint IlOffset="IL_0000" StartLine="51" StartColumn="13" EndLine="51" EndColumn="170" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_005a" IsRoot="True" Method="6000057" ImportScope="25" />
+  </Method>
+  <Method Token="6000058" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="12">
+      <SequencePoint IlOffset="IL_0000" StartLine="12" StartColumn="13" EndLine="12" EndColumn="29" />
+      <SequencePoint IlOffset="IL_0007" StartLine="13" StartColumn="13" EndLine="13" EndColumn="33" />
+      <SequencePoint IlOffset="IL_000e" StartLine="14" StartColumn="13" EndLine="14" EndColumn="57" />
+      <SequencePoint IlOffset="IL_0015" StartLine="15" StartColumn="13" EndLine="15" EndColumn="33" />
+      <SequencePoint IlOffset="IL_001d" StartLine="16" StartColumn="13" EndLine="16" EndColumn="29" />
+      <SequencePoint IlOffset="IL_0025" StartLine="17" StartColumn="9" EndLine="17" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0026" IsRoot="True" Method="6000058" ImportScope="25" />
+  </Method>
+  <Method Token="6000059" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="12">
+      <SequencePoint IlOffset="IL_0000" StartLine="19" StartColumn="33" EndLine="19" EndColumn="37" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000059" />
+  </Method>
+  <Method Token="600005A" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="12">
+      <SequencePoint IlOffset="IL_0000" StartLine="21" StartColumn="34" EndLine="21" EndColumn="38" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="600005A" />
+  </Method>
+  <Method Token="600005B" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="12">
+      <SequencePoint IlOffset="IL_0000" StartLine="23" StartColumn="47" EndLine="23" EndColumn="51" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="600005B" />
+  </Method>
+  <Method Token="600005C" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="12">
+      <SequencePoint IlOffset="IL_0000" StartLine="25" StartColumn="37" EndLine="25" EndColumn="41" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="600005C" />
+  </Method>
+  <Method Token="600005D" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="12">
+      <SequencePoint IlOffset="IL_0000" StartLine="27" StartColumn="62" EndLine="27" EndColumn="66" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="600005D" />
+  </Method>
+  <Method Token="600005E" LocalVariablesSignatureToken="1100000D">
+    <SequencePoints DocumentIndex="12">
+      <SequencePoint IlOffset="IL_0000" StartLine="31" StartColumn="13" EndLine="31" EndColumn="54" />
+      <SequencePoint IlOffset="IL_002b" StartLine="33" StartColumn="17" EndLine="33" EndColumn="30" />
+      <SequencePoint IlOffset="IL_002d" StartLine="36" StartColumn="13" EndLine="36" EndColumn="32" />
+      <SequencePoint IlOffset="IL_0035" StartLine="38" StartColumn="17" EndLine="38" EndColumn="70" />
+      <SequencePoint IlOffset="IL_004e" StartLine="41" StartColumn="13" EndLine="41" EndColumn="25" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0050" IsRoot="True" Method="600005E" ImportScope="25" />
+  </Method>
+  <Method Token="600005F" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="12">
+      <SequencePoint IlOffset="IL_0000" StartLine="49" StartColumn="13" EndLine="49" EndColumn="29" />
+      <SequencePoint IlOffset="IL_0007" StartLine="50" StartColumn="13" EndLine="50" EndColumn="59" />
+      <SequencePoint IlOffset="IL_000e" StartLine="51" StartColumn="9" EndLine="51" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000f" IsRoot="True" Method="600005F" ImportScope="25" />
+  </Method>
+  <Method Token="6000060" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="12">
+      <SequencePoint IlOffset="IL_0000" StartLine="53" StartColumn="33" EndLine="53" EndColumn="37" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000060" />
+  </Method>
+  <Method Token="6000061" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="12">
+      <SequencePoint IlOffset="IL_0000" StartLine="55" StartColumn="63" EndLine="55" EndColumn="67" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000061" />
+  </Method>
+  <Method Token="6000062" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="12">
+      <SequencePoint IlOffset="IL_0000" StartLine="59" StartColumn="13" EndLine="59" EndColumn="47" />
+      <SequencePoint IlOffset="IL_0008" StartLine="61" StartColumn="17" EndLine="61" EndColumn="58" />
+      <SequencePoint IlOffset="IL_001a" StartLine="63" StartColumn="13" EndLine="63" EndColumn="53" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0027" IsRoot="True" Method="6000062" ImportScope="25" />
+  </Method>
+  <Method Token="6000063" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="12">
+      <SequencePoint IlOffset="IL_0000" StartLine="69" StartColumn="79" EndLine="69" EndColumn="85" />
+      <SequencePoint IlOffset="IL_0007" StartLine="71" StartColumn="13" EndLine="71" EndColumn="47" />
+      <SequencePoint IlOffset="IL_0013" StartLine="72" StartColumn="13" EndLine="72" EndColumn="54" />
+      <SequencePoint IlOffset="IL_0020" StartLine="73" StartColumn="13" EndLine="73" EndColumn="33" />
+      <SequencePoint IlOffset="IL_0027" StartLine="74" StartColumn="13" EndLine="74" EndColumn="63" />
+      <SequencePoint IlOffset="IL_0036" StartLine="75" StartColumn="9" EndLine="75" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0037" IsRoot="True" Method="6000063" ImportScope="25" />
+  </Method>
+  <Method Token="6000064" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="12">
+      <SequencePoint IlOffset="IL_0000" StartLine="77" StartColumn="33" EndLine="77" EndColumn="37" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000064" />
+  </Method>
+  <Method Token="6000065" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="12">
+      <SequencePoint IlOffset="IL_0000" StartLine="79" StartColumn="34" EndLine="79" EndColumn="38" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000065" />
+  </Method>
+  <Method Token="6000066" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="12">
+      <SequencePoint IlOffset="IL_0000" StartLine="81" StartColumn="36" EndLine="81" EndColumn="40" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000066" />
+  </Method>
+  <Method Token="6000067" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="12">
+      <SequencePoint IlOffset="IL_0000" StartLine="83" StartColumn="37" EndLine="83" EndColumn="41" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000067" />
+  </Method>
+  <Method Token="6000068" LocalVariablesSignatureToken="11000025">
+    <SequencePoints DocumentIndex="13">
+      <SequencePoint IlOffset="IL_0000" StartLine="14" StartColumn="13" EndLine="14" EndColumn="27" />
+      <SequencePoint IlOffset="IL_0004" StartLine="15" StartColumn="13" EndLine="15" EndColumn="41" />
+      <SequencePoint IlOffset="IL_0016" StartLine="25" StartColumn="13" EndLine="25" EndColumn="82" />
+      <SequencePoint IlOffset="IL_001d" StartLine="26" StartColumn="13" EndLine="26" EndColumn="45" />
+      <SequencePoint IlOffset="IL_001f" StartLine="27" StartColumn="47" EndLine="27" EndColumn="60" />
+      <SequencePoint IlOffset="IL_002b" Hidden="true" />
+      <SequencePoint IlOffset="IL_002d" StartLine="27" StartColumn="22" EndLine="27" EndColumn="43" />
+      <SequencePoint IlOffset="IL_0034" StartLine="29" StartColumn="17" EndLine="30" EndColumn="115" />
+      <SequencePoint IlOffset="IL_0057" StartLine="32" StartColumn="21" EndLine="32" EndColumn="36" />
+      <SequencePoint IlOffset="IL_0059" StartLine="27" StartColumn="44" EndLine="27" EndColumn="46" />
+      <SequencePoint IlOffset="IL_0063" Hidden="true" />
+      <SequencePoint IlOffset="IL_006c" Hidden="true" />
+      <SequencePoint IlOffset="IL_006d" StartLine="36" StartColumn="13" EndLine="36" EndColumn="33" />
+      <SequencePoint IlOffset="IL_0070" StartLine="38" StartColumn="17" EndLine="38" EndColumn="41" />
+      <SequencePoint IlOffset="IL_0079" StartLine="39" StartColumn="17" EndLine="39" EndColumn="45" />
+      <SequencePoint IlOffset="IL_0086" StartLine="41" StartColumn="9" EndLine="41" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0087" IsRoot="True" Method="6000068" ImportScope="25">
+      <Scope OffsetRange="IL_0000-IL_0087" IsRoot="False" Method="6000068" ImportScope="25">
+        <LocalVariable LocalVariablesSignatureToken="11000025" IlIndex="0" Attributes="None">providerAlias</LocalVariable>
+        <LocalVariable LocalVariablesSignatureToken="11000025" IlIndex="1" Attributes="None">current</LocalVariable>
+        <Scope OffsetRange="IL_002d-IL_0059" IsRoot="False" Method="6000068" ImportScope="25">
+          <LocalVariable LocalVariablesSignatureToken="11000025" IlIndex="3" Attributes="None">rule</LocalVariable>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000069" LocalVariablesSignatureToken="11000026">
+    <SequencePoints DocumentIndex="13">
+      <SequencePoint IlOffset="IL_0000" StartLine="47" StartColumn="13" EndLine="47" EndColumn="74" />
+      <SequencePoint IlOffset="IL_0016" StartLine="49" StartColumn="17" EndLine="49" EndColumn="30" />
+      <SequencePoint IlOffset="IL_0018" StartLine="52" StartColumn="13" EndLine="52" EndColumn="43" />
+      <SequencePoint IlOffset="IL_0020" StartLine="54" StartColumn="17" EndLine="54" EndColumn="80" />
+      <SequencePoint IlOffset="IL_0031" StartLine="55" StartColumn="17" EndLine="55" EndColumn="46" />
+      <SequencePoint IlOffset="IL_0037" StartLine="57" StartColumn="21" EndLine="57" EndColumn="117" />
+      <SequencePoint IlOffset="IL_0042" StartLine="60" StartColumn="17" EndLine="60" EndColumn="50" />
+      <SequencePoint IlOffset="IL_0046" StartLine="61" StartColumn="17" EndLine="61" EndColumn="92" />
+      <SequencePoint IlOffset="IL_0057" StartLine="63" StartColumn="17" EndLine="64" EndColumn="84" />
+      <SequencePoint IlOffset="IL_006b" StartLine="66" StartColumn="21" EndLine="66" EndColumn="34" />
+      <SequencePoint IlOffset="IL_006d" StartLine="70" StartColumn="13" EndLine="70" EndColumn="47" />
+      <SequencePoint IlOffset="IL_0078" StartLine="72" StartColumn="17" EndLine="72" EndColumn="47" />
+      <SequencePoint IlOffset="IL_0080" StartLine="74" StartColumn="21" EndLine="74" EndColumn="34" />
+      <SequencePoint IlOffset="IL_0082" StartLine="80" StartColumn="17" EndLine="80" EndColumn="47" />
+      <SequencePoint IlOffset="IL_008a" StartLine="82" StartColumn="21" EndLine="82" EndColumn="33" />
+      <SequencePoint IlOffset="IL_008c" StartLine="86" StartColumn="13" EndLine="86" EndColumn="47" />
+      <SequencePoint IlOffset="IL_0097" StartLine="88" StartColumn="17" EndLine="88" EndColumn="47" />
+      <SequencePoint IlOffset="IL_009f" StartLine="90" StartColumn="21" EndLine="90" EndColumn="34" />
+      <SequencePoint IlOffset="IL_00a1" StartLine="93" StartColumn="17" EndLine="93" EndColumn="76" />
+      <SequencePoint IlOffset="IL_00b9" StartLine="95" StartColumn="21" EndLine="95" EndColumn="34" />
+      <SequencePoint IlOffset="IL_00bb" StartLine="99" StartColumn="13" EndLine="99" EndColumn="25" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_00bd" IsRoot="True" Method="6000069" ImportScope="25">
+      <Scope OffsetRange="IL_0020-IL_006d" IsRoot="False" Method="6000069" ImportScope="25">
+        <LocalVariable LocalVariablesSignatureToken="11000026" IlIndex="0" Attributes="None">categoryParts</LocalVariable>
+        <LocalVariable LocalVariablesSignatureToken="11000026" IlIndex="1" Attributes="None">prefix</LocalVariable>
+        <LocalVariable LocalVariablesSignatureToken="11000026" IlIndex="2" Attributes="None">suffix</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600006B" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="13">
+      <SequencePoint IlOffset="IL_0000" StartLine="10" StartColumn="9" EndLine="10" EndColumn="63" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0011" IsRoot="True" Method="600006B" ImportScope="25" />
+  </Method>
+  <Method Token="600006C" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="14">
+      <SequencePoint IlOffset="IL_0000" StartLine="10" StartColumn="9" EndLine="10" EndColumn="59" />
+      <SequencePoint IlOffset="IL_0006" StartLine="12" StartColumn="13" EndLine="12" EndColumn="33" />
+      <SequencePoint IlOffset="IL_000d" StartLine="13" StartColumn="9" EndLine="13" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000e" IsRoot="True" Method="600006C" ImportScope="29" />
+  </Method>
+  <Method Token="600006D" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="14">
+      <SequencePoint IlOffset="IL_0000" StartLine="15" StartColumn="46" EndLine="15" EndColumn="50" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="600006D" />
+  </Method>
+  <Method Token="600006E" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="15">
+      <SequencePoint IlOffset="IL_0000" StartLine="24" StartColumn="13" EndLine="25" EndColumn="65" />
+      <SequencePoint IlOffset="IL_0016" StartLine="26" StartColumn="13" EndLine="26" EndColumn="28" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0018" IsRoot="True" Method="600006E" ImportScope="2D" />
+  </Method>
+  <Method Token="600006F" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="15">
+      <SequencePoint IlOffset="IL_0000" StartLine="37" StartColumn="13" EndLine="37" EndColumn="53" />
+      <SequencePoint IlOffset="IL_000d" StartLine="38" StartColumn="13" EndLine="38" EndColumn="28" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000f" IsRoot="True" Method="600006F" ImportScope="2D" />
+  </Method>
+  <Method Token="6000070" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="15">
+      <SequencePoint IlOffset="IL_0000" StartLine="48" StartColumn="13" EndLine="48" EndColumn="59" />
+      <SequencePoint IlOffset="IL_000c" StartLine="49" StartColumn="13" EndLine="49" EndColumn="28" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000e" IsRoot="True" Method="6000070" ImportScope="2D" />
+  </Method>
+  <Method Token="6000071" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="15">
+      <SequencePoint IlOffset="IL_0000" StartLine="60" StartColumn="13" EndLine="60" EndColumn="48" />
+      <SequencePoint IlOffset="IL_000d" StartLine="61" StartColumn="13" EndLine="61" EndColumn="28" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000f" IsRoot="True" Method="6000071" ImportScope="2D" />
+  </Method>
+  <Method Token="6000072" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="16">
+      <SequencePoint IlOffset="IL_0000" StartLine="18" StartColumn="9" EndLine="18" EndColumn="52" />
+      <SequencePoint IlOffset="IL_0006" StartLine="20" StartColumn="13" EndLine="20" EndColumn="27" />
+      <SequencePoint IlOffset="IL_000d" StartLine="21" StartColumn="9" EndLine="21" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000e" IsRoot="True" Method="6000072" ImportScope="25" />
+  </Method>
+  <Method Token="6000073" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="16">
+      <SequencePoint IlOffset="IL_0000" StartLine="26" StartColumn="31" EndLine="26" EndColumn="35" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000073" />
+  </Method>
+  <Method Token="6000074" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="17">
+      <SequencePoint IlOffset="IL_0000" StartLine="11" StartColumn="9" EndLine="11" EndColumn="76" />
+      <SequencePoint IlOffset="IL_0006" StartLine="13" StartColumn="13" EndLine="13" EndColumn="41" />
+      <SequencePoint IlOffset="IL_000d" StartLine="14" StartColumn="9" EndLine="14" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000e" IsRoot="True" Method="6000074" ImportScope="31" />
+  </Method>
+  <Method Token="6000075" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="17">
+      <SequencePoint IlOffset="IL_0000" StartLine="16" StartColumn="86" EndLine="16" EndColumn="90" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0002" IsRoot="True" Method="6000075" ImportScope="31" />
+  </Method>
+  <Method Token="6000076" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="17">
+      <SequencePoint IlOffset="IL_0000" StartLine="18" StartColumn="56" EndLine="18" EndColumn="68" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000076" ImportScope="31" />
+  </Method>
+  <Method Token="6000077" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="17">
+      <SequencePoint IlOffset="IL_0000" StartLine="20" StartColumn="51" EndLine="20" EndColumn="55" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000077" />
+  </Method>
+  <Method Token="6000078" LocalVariablesSignatureToken="11000027">
+    <SequencePoints DocumentIndex="18">
+      <SequencePoint IlOffset="IL_0000" StartLine="16" StartColumn="59" EndLine="16" EndColumn="112" />
+      <SequencePoint IlOffset="IL_000c" Hidden="true" />
+      <SequencePoint IlOffset="IL_000e" StartLine="16" StartColumn="22" EndLine="16" EndColumn="55" />
+      <SequencePoint IlOffset="IL_0015" StartLine="18" StartColumn="17" EndLine="18" EndColumn="87" />
+      <SequencePoint IlOffset="IL_002c" StartLine="20" StartColumn="66" EndLine="20" EndColumn="100" />
+      <SequencePoint IlOffset="IL_0038" Hidden="true" />
+      <SequencePoint IlOffset="IL_003a" StartLine="20" StartColumn="30" EndLine="20" EndColumn="62" />
+      <SequencePoint IlOffset="IL_0041" StartLine="24" StartColumn="25" EndLine="24" EndColumn="54" />
+      <SequencePoint IlOffset="IL_0058" StartLine="20" StartColumn="63" EndLine="20" EndColumn="65" />
+      <SequencePoint IlOffset="IL_0062" Hidden="true" />
+      <SequencePoint IlOffset="IL_006b" Hidden="true" />
+      <SequencePoint IlOffset="IL_006c" StartLine="16" StartColumn="56" EndLine="16" EndColumn="58" />
+      <SequencePoint IlOffset="IL_0076" Hidden="true" />
+      <SequencePoint IlOffset="IL_007f" Hidden="true" />
+      <SequencePoint IlOffset="IL_0080" StartLine="29" StartColumn="13" EndLine="29" EndColumn="25" />
+      <SequencePoint IlOffset="IL_0082" StartLine="30" StartColumn="9" EndLine="30" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0085" IsRoot="True" Method="6000078" ImportScope="35">
+      <Scope OffsetRange="IL_000e-IL_006c" IsRoot="False" Method="6000078" ImportScope="35">
+        <LocalVariable LocalVariablesSignatureToken="11000027" IlIndex="1" Attributes="None">attributeData</LocalVariable>
+        <Scope OffsetRange="IL_003a-IL_0058" IsRoot="False" Method="6000078" ImportScope="35">
+          <LocalVariable LocalVariablesSignatureToken="11000027" IlIndex="3" Attributes="None">arg</LocalVariable>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000079" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="19">
+      <SequencePoint IlOffset="IL_0000" StartLine="13" StartColumn="9" EndLine="13" EndColumn="44" />
+      <SequencePoint IlOffset="IL_0006" StartLine="15" StartColumn="9" EndLine="15" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000079" ImportScope="25" />
+  </Method>
+  <Method Token="600007A" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="19">
+      <SequencePoint IlOffset="IL_0000" StartLine="20" StartColumn="57" EndLine="20" EndColumn="61" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0006" IsRoot="True" Method="600007A" />
+  </Method>
+  <Method Token="600007B" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="19">
+      <SequencePoint IlOffset="IL_0000" StartLine="25" StartColumn="9" EndLine="25" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0001" IsRoot="True" Method="600007B" ImportScope="25" />
+  </Method>
+  <Method Token="600007C" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="19">
+      <SequencePoint IlOffset="IL_0000" StartLine="30" StartColumn="13" EndLine="30" EndColumn="39" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0006" IsRoot="True" Method="600007C" ImportScope="25" />
+  </Method>
+  <Method Token="600007D" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="19">
+      <SequencePoint IlOffset="IL_0000" StartLine="20" StartColumn="66" EndLine="20" EndColumn="97" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000b" IsRoot="True" Method="600007D" ImportScope="25" />
+  </Method>
+  <Method Token="600007E" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="20">
+      <SequencePoint IlOffset="IL_0000" StartLine="13" StartColumn="44" EndLine="13" EndColumn="48" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0006" IsRoot="True" Method="600007E" />
+  </Method>
+  <Method Token="600007F" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="20">
+      <SequencePoint IlOffset="IL_0000" StartLine="15" StartColumn="9" EndLine="15" EndColumn="28" />
+      <SequencePoint IlOffset="IL_0006" StartLine="17" StartColumn="9" EndLine="17" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="600007F" ImportScope="25" />
+  </Method>
+  <Method Token="6000080" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="20">
+      <SequencePoint IlOffset="IL_0000" StartLine="22" StartColumn="9" EndLine="22" EndColumn="10" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0001" IsRoot="True" Method="6000080" ImportScope="25" />
+  </Method>
+  <Method Token="6000081" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="20">
+      <SequencePoint IlOffset="IL_0000" StartLine="13" StartColumn="53" EndLine="13" EndColumn="68" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000b" IsRoot="True" Method="6000081" ImportScope="25" />
+  </Method>
+  <Method Token="6000084" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="3">
+      <SequencePoint IlOffset="IL_0000" StartLine="23" StartColumn="54" EndLine="23" EndColumn="55" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0001" IsRoot="True" Method="6000084" ImportScope="9" />
+  </Method>
+  <Method Token="6000086" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="4">
+      <SequencePoint IlOffset="IL_0000" StartLine="10" StartColumn="85" EndLine="10" EndColumn="109" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000d" IsRoot="True" Method="6000086" ImportScope="D" />
+  </Method>
+  <Method Token="6000088" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" StartLine="21" StartColumn="48" EndLine="21" EndColumn="73" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000e" IsRoot="True" Method="6000088" ImportScope="11" />
+  </Method>
+  <Method Token="600008A" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" StartLine="30" StartColumn="48" EndLine="30" EndColumn="86" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000e" IsRoot="True" Method="600008A" ImportScope="11" />
+  </Method>
+  <Method Token="600008C" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" StartLine="40" StartColumn="48" EndLine="40" EndColumn="89" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000e" IsRoot="True" Method="600008C" ImportScope="11" />
+  </Method>
+  <Method Token="600008E" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" StartLine="49" StartColumn="48" EndLine="49" EndColumn="78" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000e" IsRoot="True" Method="600008E" ImportScope="11" />
+  </Method>
+  <Method Token="6000090" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" StartLine="59" StartColumn="48" EndLine="59" EndColumn="81" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000e" IsRoot="True" Method="6000090" ImportScope="11" />
+  </Method>
+  <Method Token="6000092" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" StartLine="69" StartColumn="48" EndLine="69" EndColumn="82" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0014" IsRoot="True" Method="6000092" ImportScope="11" />
+  </Method>
+  <Method Token="6000094" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" StartLine="80" StartColumn="48" EndLine="80" EndColumn="85" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0014" IsRoot="True" Method="6000094" ImportScope="11" />
+  </Method>
+  <Method Token="6000096" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" StartLine="90" StartColumn="48" EndLine="90" EndColumn="88" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0014" IsRoot="True" Method="6000096" ImportScope="11" />
+  </Method>
+  <Method Token="6000098" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" StartLine="101" StartColumn="48" EndLine="101" EndColumn="91" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0014" IsRoot="True" Method="6000098" ImportScope="11" />
+  </Method>
+  <Method Token="600009A" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" StartLine="119" StartColumn="61" EndLine="119" EndColumn="93" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000e" IsRoot="True" Method="600009A" ImportScope="11" />
+  </Method>
+  <Method Token="600009C" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" StartLine="129" StartColumn="87" EndLine="129" EndColumn="119" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000e" IsRoot="True" Method="600009C" ImportScope="11" />
+  </Method>
+  <Method Token="600009E" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" StartLine="138" StartColumn="61" EndLine="138" EndColumn="79" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000d" IsRoot="True" Method="600009E" ImportScope="11" />
+  </Method>
+  <Method Token="60000A0" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" StartLine="148" StartColumn="87" EndLine="148" EndColumn="105" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000d" IsRoot="True" Method="60000A0" ImportScope="11" />
+  </Method>
+  <Method Token="60000A2" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" StartLine="179" StartColumn="81" EndLine="179" EndColumn="99" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000d" IsRoot="True" Method="60000A2" ImportScope="11" />
+  </Method>
+  <Method Token="60000A4" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="5">
+      <SequencePoint IlOffset="IL_0000" StartLine="190" StartColumn="107" EndLine="190" EndColumn="125" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000d" IsRoot="True" Method="60000A4" ImportScope="11" />
+  </Method>
+  <Method Token="60000A5" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="6">
+      <SequencePoint IlOffset="IL_0000" StartLine="169" StartColumn="13" EndLine="169" EndColumn="36" />
+      <SequencePoint IlOffset="IL_0006" StartLine="171" StartColumn="17" EndLine="171" EndColumn="31" />
+      <SequencePoint IlOffset="IL_000a" StartLine="173" StartColumn="21" EndLine="173" EndColumn="62" />
+      <SequencePoint IlOffset="IL_0018" StartLine="175" StartColumn="13" EndLine="175" EndColumn="14" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0019" IsRoot="True" Method="60000A5" ImportScope="15" />
+  </Method>
+  <Method Token="60000A6" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="6">
+      <SequencePoint IlOffset="IL_0000" Hidden="true" />
+      <SequencePoint IlOffset="IL_0009" StartLine="182" StartColumn="25" EndLine="182" EndColumn="51" />
+      <SequencePoint IlOffset="IL_0010" StartLine="183" StartColumn="25" EndLine="183" EndColumn="31" />
+      <SequencePoint IlOffset="IL_0011" StartLine="185" StartColumn="25" EndLine="185" EndColumn="51" />
+      <SequencePoint IlOffset="IL_0018" StartLine="186" StartColumn="25" EndLine="186" EndColumn="31" />
+      <SequencePoint IlOffset="IL_0019" StartLine="188" StartColumn="25" EndLine="188" EndColumn="61" />
+      <SequencePoint IlOffset="IL_0024" StartLine="191" StartColumn="13" EndLine="191" EndColumn="14" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0025" IsRoot="True" Method="60000A6" ImportScope="15" />
+  </Method>
+  <Method Token="60000A7" LocalVariablesSignatureToken="11000028">
+    <SequencePoints DocumentIndex="6">
+      <SequencePoint IlOffset="IL_0000" StartLine="195" StartColumn="17" EndLine="195" EndColumn="34" />
+      <SequencePoint IlOffset="IL_0008" StartLine="197" StartColumn="21" EndLine="197" EndColumn="45" />
+      <SequencePoint IlOffset="IL_0019" StartLine="198" StartColumn="21" EndLine="198" EndColumn="45" />
+      <SequencePoint IlOffset="IL_002a" StartLine="200" StartColumn="21" EndLine="200" EndColumn="45" />
+      <SequencePoint IlOffset="IL_0032" StartLine="202" StartColumn="25" EndLine="202" EndColumn="56" />
+      <SequencePoint IlOffset="IL_003b" StartLine="203" StartColumn="30" EndLine="203" EndColumn="43" />
+      <SequencePoint IlOffset="IL_003d" Hidden="true" />
+      <SequencePoint IlOffset="IL_003f" StartLine="205" StartColumn="29" EndLine="205" EndColumn="60" />
+      <SequencePoint IlOffset="IL_0049" StartLine="207" StartColumn="33" EndLine="207" EndColumn="62" />
+      <SequencePoint IlOffset="IL_0056" StartLine="203" StartColumn="61" EndLine="203" EndColumn="68" />
+      <SequencePoint IlOffset="IL_005a" StartLine="203" StartColumn="45" EndLine="203" EndColumn="59" />
+      <SequencePoint IlOffset="IL_005e" StartLine="212" StartColumn="21" EndLine="212" EndColumn="40" />
+      <SequencePoint IlOffset="IL_0065" StartLine="214" StartColumn="13" EndLine="214" EndColumn="14" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0066" IsRoot="True" Method="60000A7" ImportScope="15">
+      <Scope OffsetRange="IL_0032-IL_005e" IsRoot="False" Method="60000A7" ImportScope="15">
+        <LocalVariable LocalVariablesSignatureToken="11000028" IlIndex="0" Attributes="None">count</LocalVariable>
+        <Scope OffsetRange="IL_003b-IL_005e" IsRoot="False" Method="60000A7" ImportScope="15">
+          <LocalVariable LocalVariablesSignatureToken="11000028" IlIndex="1" Attributes="None">index</LocalVariable>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="60000A8" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="7">
+      <SequencePoint IlOffset="IL_0000" StartLine="282" StartColumn="13" EndLine="282" EndColumn="105" />
+      <SequencePoint IlOffset="IL_0006" StartLine="284" StartColumn="17" EndLine="284" EndColumn="48" />
+      <SequencePoint IlOffset="IL_000d" StartLine="285" StartColumn="17" EndLine="285" EndColumn="52" />
+      <SequencePoint IlOffset="IL_0014" StartLine="286" StartColumn="13" EndLine="286" EndColumn="14" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0015" IsRoot="True" Method="60000A8" ImportScope="19" />
+  </Method>
+  <Method Token="60000A9" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="7">
+      <SequencePoint IlOffset="IL_0000" StartLine="290" StartColumn="17" EndLine="290" EndColumn="44" />
+      <SequencePoint IlOffset="IL_000b" StartLine="291" StartColumn="13" EndLine="291" EndColumn="14" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000c" IsRoot="True" Method="60000A9" ImportScope="19" />
+  </Method>
+  <Method Token="60000AA" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="7">
+      <SequencePoint IlOffset="IL_0000" StartLine="295" StartColumn="17" EndLine="295" EndColumn="66" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000d" IsRoot="True" Method="60000AA" ImportScope="19" />
+  </Method>
+  <Method Token="60000AB" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="7">
+      <SequencePoint IlOffset="IL_0000" StartLine="300" StartColumn="17" EndLine="300" EndColumn="54" />
+      <SequencePoint IlOffset="IL_000c" StartLine="301" StartColumn="13" EndLine="301" EndColumn="14" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000d" IsRoot="True" Method="60000AB" ImportScope="19" />
+  </Method>
+  <Method Token="60000AC" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="9">
+      <SequencePoint IlOffset="IL_0000" StartLine="71" StartColumn="13" EndLine="71" EndColumn="92" />
+      <SequencePoint IlOffset="IL_0006" StartLine="73" StartColumn="17" EndLine="73" EndColumn="38" />
+      <SequencePoint IlOffset="IL_000d" StartLine="74" StartColumn="17" EndLine="74" EndColumn="31" />
+      <SequencePoint IlOffset="IL_0014" StartLine="75" StartColumn="17" EndLine="75" EndColumn="33" />
+      <SequencePoint IlOffset="IL_001b" StartLine="76" StartColumn="13" EndLine="76" EndColumn="14" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_001c" IsRoot="True" Method="60000AC" ImportScope="21" />
+  </Method>
+  <Method Token="60000AD" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="9">
+      <SequencePoint IlOffset="IL_0000" StartLine="78" StartColumn="35" EndLine="78" EndColumn="39" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="60000AD" />
+  </Method>
+  <Method Token="60000AE" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="9">
+      <SequencePoint IlOffset="IL_0000" StartLine="80" StartColumn="35" EndLine="80" EndColumn="39" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="60000AE" />
+  </Method>
+  <Method Token="60000AF" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="9">
+      <SequencePoint IlOffset="IL_0000" StartLine="84" StartColumn="17" EndLine="84" EndColumn="42" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0012" IsRoot="True" Method="60000AF" ImportScope="21" />
+  </Method>
+  <Method Token="60000B0" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="9">
+      <SequencePoint IlOffset="IL_0000" StartLine="89" StartColumn="17" EndLine="89" EndColumn="34" />
+      <SequencePoint IlOffset="IL_0008" StartLine="91" StartColumn="21" EndLine="91" EndColumn="60" />
+      <SequencePoint IlOffset="IL_001e" StartLine="92" StartColumn="21" EndLine="92" EndColumn="40" />
+      <SequencePoint IlOffset="IL_0025" StartLine="94" StartColumn="13" EndLine="94" EndColumn="14" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0026" IsRoot="True" Method="60000B0" ImportScope="21" />
+  </Method>
+  <Method Token="60000B1" LocalVariablesSignatureToken="11000029">
+    <SequencePoints DocumentIndex="9">
+      <SequencePoint IlOffset="IL_0000" StartLine="101" StartColumn="13" EndLine="101" EndColumn="105" />
+      <SequencePoint IlOffset="IL_000c" StartLine="103" StartColumn="13" EndLine="103" EndColumn="103" />
+      <SequencePoint IlOffset="IL_0012" StartLine="108" StartColumn="17" EndLine="108" EndColumn="31" />
+      <SequencePoint IlOffset="IL_0014" StartLine="109" StartColumn="17" EndLine="109" EndColumn="84" />
+      <SequencePoint IlOffset="IL_0019" StartLine="111" StartColumn="21" EndLine="111" EndColumn="104" />
+      <SequencePoint IlOffset="IL_0039" StartLine="114" StartColumn="17" EndLine="114" EndColumn="85" />
+      <SequencePoint IlOffset="IL_003e" StartLine="116" StartColumn="21" EndLine="116" EndColumn="106" />
+      <SequencePoint IlOffset="IL_005e" StartLine="119" StartColumn="17" EndLine="119" EndColumn="86" />
+      <SequencePoint IlOffset="IL_0063" StartLine="121" StartColumn="21" EndLine="121" EndColumn="108" />
+      <SequencePoint IlOffset="IL_0083" StartLine="124" StartColumn="17" EndLine="124" EndColumn="88" />
+      <SequencePoint IlOffset="IL_0088" StartLine="126" StartColumn="21" EndLine="126" EndColumn="113" />
+      <SequencePoint IlOffset="IL_00a8" StartLine="129" StartColumn="17" EndLine="129" EndColumn="88" />
+      <SequencePoint IlOffset="IL_00ae" StartLine="131" StartColumn="21" EndLine="131" EndColumn="115" />
+      <SequencePoint IlOffset="IL_00d3" StartLine="134" StartColumn="17" EndLine="134" EndColumn="31" />
+      <SequencePoint IlOffset="IL_00da" StartLine="135" StartColumn="13" EndLine="135" EndColumn="14" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_00db" IsRoot="True" Method="60000B1" ImportScope="21">
+      <Scope OffsetRange="IL_0012-IL_00db" IsRoot="False" Method="60000B1" ImportScope="21">
+        <LocalVariable LocalVariablesSignatureToken="11000029" IlIndex="0" Attributes="None">count</LocalVariable>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="60000B2" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="9">
+      <SequencePoint IlOffset="IL_0000" StartLine="137" StartColumn="32" EndLine="137" EndColumn="36" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="60000B2" />
+  </Method>
+  <Method Token="60000B3" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="9">
+      <SequencePoint IlOffset="IL_0000" StartLine="143" StartColumn="21" EndLine="143" EndColumn="40" />
+      <SequencePoint IlOffset="IL_0009" StartLine="145" StartColumn="25" EndLine="145" EndColumn="78" />
+      <SequencePoint IlOffset="IL_0014" StartLine="148" StartColumn="21" EndLine="148" EndColumn="42" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0021" IsRoot="True" Method="60000B3" ImportScope="21" />
+  </Method>
+  <Method Token="60000B4" LocalVariablesSignatureToken="1100002A">
+    <SequencePoints DocumentIndex="9">
+      <SequencePoint IlOffset="IL_0000" StartLine="154" StartColumn="17" EndLine="154" EndColumn="45" />
+      <SequencePoint IlOffset="IL_000b" StartLine="156" StartColumn="21" EndLine="156" EndColumn="60" />
+      <SequencePoint IlOffset="IL_0011" StartLine="158" StartColumn="21" EndLine="158" EndColumn="46" />
+      <SequencePoint IlOffset="IL_0029" StartLine="159" StartColumn="21" EndLine="159" EndColumn="36" />
+      <SequencePoint IlOffset="IL_0032" StartLine="160" StartColumn="21" EndLine="160" EndColumn="48" />
+      <SequencePoint IlOffset="IL_004a" StartLine="162" StartColumn="26" EndLine="162" EndColumn="35" />
+      <SequencePoint IlOffset="IL_004c" Hidden="true" />
+      <SequencePoint IlOffset="IL_004e" StartLine="164" StartColumn="25" EndLine="164" EndColumn="41" />
+      <SequencePoint IlOffset="IL_005a" StartLine="165" StartColumn="25" EndLine="165" EndColumn="50" />
+      <SequencePoint IlOffset="IL_0072" StartLine="166" StartColumn="25" EndLine="166" EndColumn="40" />
+      <SequencePoint IlOffset="IL_007b" StartLine="167" StartColumn="25" EndLine="167" EndColumn="52" />
+      <SequencePoint IlOffset="IL_0093" StartLine="162" StartColumn="48" EndLine="162" EndColumn="51" />
+      <SequencePoint IlOffset="IL_0097" StartLine="162" StartColumn="37" EndLine="162" EndColumn="46" />
+      <SequencePoint IlOffset="IL_00a0" StartLine="169" StartColumn="21" EndLine="169" EndColumn="53" />
+      <SequencePoint IlOffset="IL_00ac" StartLine="172" StartColumn="17" EndLine="172" EndColumn="40" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_00b3" IsRoot="True" Method="60000B4" ImportScope="21">
+      <Scope OffsetRange="IL_000b-IL_00ac" IsRoot="False" Method="60000B4" ImportScope="21">
+        <LocalVariable LocalVariablesSignatureToken="1100002A" IlIndex="0" Attributes="None">sb</LocalVariable>
+        <Scope OffsetRange="IL_004a-IL_00a0" IsRoot="False" Method="60000B4" ImportScope="21">
+          <LocalVariable LocalVariablesSignatureToken="1100002A" IlIndex="1" Attributes="None">i</LocalVariable>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="60000B5">
+    <Scope OffsetRange="IL_0000-IL_000e" IsRoot="True" Method="60000B5" ImportScope="21" />
+  </Method>
+  <Method Token="60000B6" LocalVariablesSignatureToken="11000000">
+    <SequencePoints DocumentIndex="9">
+      <SequencePoint IlOffset="IL_0000" StartLine="185" StartColumn="17" EndLine="185" EndColumn="40" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="60000B6" ImportScope="21" />
+  </Method>
+  <Method Token="60000B9" LocalVariablesSignatureToken="1100002B" StateMachineHoistedLocalScopes="start IL_0000 end IL_0000 start IL_001e end IL_0067 " KickoffMethod="60000B5">
+    <SequencePoints DocumentIndex="9">
+      <SequencePoint IlOffset="IL_0000" Hidden="true" />
+      <SequencePoint IlOffset="IL_001e" StartLine="177" StartColumn="22" EndLine="177" EndColumn="31" />
+      <SequencePoint IlOffset="IL_0025" Hidden="true" />
+      <SequencePoint IlOffset="IL_0027" StartLine="179" StartColumn="21" EndLine="179" EndColumn="42" />
+      <SequencePoint IlOffset="IL_0042" Hidden="true" />
+      <SequencePoint IlOffset="IL_0049" StartLine="177" StartColumn="44" EndLine="177" EndColumn="47" />
+      <SequencePoint IlOffset="IL_0059" StartLine="177" StartColumn="33" EndLine="177" EndColumn="42" />
+      <SequencePoint IlOffset="IL_0067" StartLine="181" StartColumn="13" EndLine="181" EndColumn="14" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0069" IsRoot="True" Method="60000B9" ImportScope="21" />
+  </Method>
+  <Type Name="Microsoft.Extensions.DependencyInjection.LoggingServiceCollectionExtensions">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/LoggingServiceCollectionExtensions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.DependencyInjection.LoggingServiceCollectionExtensions+&lt;&gt;c">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/LoggingServiceCollectionExtensions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.ActivityExtensions">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerFactoryScopeProvider.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.ActivityTrackingOptions">
+    <File>/_/src/libraries/Common/src/Extensions/Logging/ActivityTrackingOptions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.DefaultLoggerLevelConfigureOptions">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/DefaultLoggerLevelConfigureOptions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.DefaultLoggerLevelConfigureOptions+&lt;&gt;c__DisplayClass0_0">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/DefaultLoggerLevelConfigureOptions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.FilterLoggingBuilderExtensions">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/FilterLoggingBuilderExtensions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.FilterLoggingBuilderExtensions+&lt;&gt;c__DisplayClass0_0">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/FilterLoggingBuilderExtensions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.FilterLoggingBuilderExtensions+&lt;&gt;c__DisplayClass10_0">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/FilterLoggingBuilderExtensions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.FilterLoggingBuilderExtensions+&lt;&gt;c__DisplayClass11_0`1">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/FilterLoggingBuilderExtensions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.FilterLoggingBuilderExtensions+&lt;&gt;c__DisplayClass12_0">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/FilterLoggingBuilderExtensions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.FilterLoggingBuilderExtensions+&lt;&gt;c__DisplayClass13_0`1">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/FilterLoggingBuilderExtensions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.FilterLoggingBuilderExtensions+&lt;&gt;c__DisplayClass16_0">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/FilterLoggingBuilderExtensions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.FilterLoggingBuilderExtensions+&lt;&gt;c__DisplayClass17_0`1">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/FilterLoggingBuilderExtensions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.FilterLoggingBuilderExtensions+&lt;&gt;c__DisplayClass1_0">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/FilterLoggingBuilderExtensions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.FilterLoggingBuilderExtensions+&lt;&gt;c__DisplayClass2_0`1">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/FilterLoggingBuilderExtensions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.FilterLoggingBuilderExtensions+&lt;&gt;c__DisplayClass3_0">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/FilterLoggingBuilderExtensions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.FilterLoggingBuilderExtensions+&lt;&gt;c__DisplayClass4_0`1">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/FilterLoggingBuilderExtensions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.FilterLoggingBuilderExtensions+&lt;&gt;c__DisplayClass5_0">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/FilterLoggingBuilderExtensions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.FilterLoggingBuilderExtensions+&lt;&gt;c__DisplayClass6_0`1">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/FilterLoggingBuilderExtensions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.FilterLoggingBuilderExtensions+&lt;&gt;c__DisplayClass7_0">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/FilterLoggingBuilderExtensions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.FilterLoggingBuilderExtensions+&lt;&gt;c__DisplayClass8_0`1">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/FilterLoggingBuilderExtensions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.ILoggingBuilder">
+    <File>/_/src/libraries/Common/src/Extensions/Logging/ILoggingBuilder.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.Logger">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/Logger.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.Logger+Scope">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/Logger.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.LoggerFactory">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerFactory.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.LoggerFactory+DisposingLoggerFactory">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerFactory.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.LoggerFactoryOptions">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerFactoryOptions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.LoggerFactoryScopeProvider">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerFactoryScopeProvider.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.LoggerFactoryScopeProvider+ActivityLogScope">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerFactoryScopeProvider.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.LoggerFactoryScopeProvider+ActivityLogScope+&lt;GetEnumerator&gt;d__10">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerFactoryScopeProvider.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.LoggerFactoryScopeProvider+Scope">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerFactoryScopeProvider.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.LoggerFilterOptions">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerFilterOptions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.LoggerFilterRule">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerFilterRule.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.LoggerInformation">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerInformation.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.LoggerRuleSelector">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerRuleSelector.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.LoggingBuilder">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/LoggingBuilder.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.LoggingBuilderExtensions">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/LoggingBuilderExtensions.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.MessageLogger">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerInformation.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.NullExternalScopeProvider">
+    <File>/_/src/libraries/Common/src/Extensions/Logging/NullExternalScopeProvider.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.NullScope">
+    <File>/_/src/libraries/Common/src/Extensions/Logging/NullScope.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.ProviderAliasAttribute">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/ProviderAliasAttribute.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.ProviderAliasUtilities">
+    <File>/_/src/libraries/Common/src/Extensions/ProviderAliasUtilities/ProviderAliasUtilities.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.ScopeLogger">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/LoggerInformation.cs</File>
+  </Type>
+  <Type Name="Microsoft.Extensions.Logging.StaticFilterOptionsMonitor">
+    <File>/_/src/libraries/Microsoft.Extensions.Logging/src/StaticFilterOptionsMonitor.cs</File>
+  </Type>
+  <Type Name="System.SR">
+    <File>/_/src/libraries/Common/src/System/SR.cs</File>
+    <File>/_/artifacts/obj/Microsoft.Extensions.Logging/netstandard2.1-Release/System.SR.cs</File>
+  </Type>
+  <SourceLink>
+    <Conversion FilePath="/_/*" Uri="https://raw.githubusercontent.com/dotnet/runtime/62eb1b22c608957b3fa701d53bc9619d6f6c49f7/*" />
+  </SourceLink>
+</Pdb>
